@@ -1,0 +1,665 @@
+0950.mp3
+你好嗎？我很好，你呢？我也很好，謝謝你。(lokah su’ ga? aw, lokah saku’. hmswa’ isu’ hiya’ pi? lokah saku’ uzi. mhway su.)
+male
+one
+
+0951.mp3
+你怎麼啦？我的眼睛痛。(nyux su’ hmswa’? nyux mxal roziq mu’.)
+male
+one
+
+0952.mp3
+你怎麼啦？我的頭很痛。(nyux su’ hmswa’? nyux mxal tunux maku’.)
+male
+one
+
+0953.mp3
+再見了！再見了！(sgagay ta’ la! / sgaya ta’ la! sgagay ta’ la! / sgaya ta’ la!)
+male
+one
+
+0954.mp3
+謝謝！不客氣！(mhway su’! baha la!)
+male
+one
+
+0955.mp3
+你叫什麼名字？我叫Tali’。(ima’ lalu’ su’? lalu’ maku’ ga, Tali’.)
+male
+one
+
+0956.mp3
+你爸爸叫什麼名字？我爸爸叫Hayung Batu’ 。(ima’ lalu’ yaba’ su’? lalu’ na yaba’ maku’ ga, Hayung Batu’.)
+male
+one
+
+0957.mp3
+那個人是誰？她是Rimuy。(ima’ qu squliq qasa? hiya’ ga, Rimuy.)
+male
+one
+
+0958.mp3
+那個男人是誰？他是 Temu’ Batu’。(ima’ qu mlikuy qasa? hiya’ ga, Temu’ Batu’.)
+male
+one
+
+0959.mp3
+誰呀？我們是Masaw 和Pitay。(ima’ sa? sami ga, Masaw ki Pitay.)
+male
+one
+
+0960.mp3
+那個男人是誰？他是我的老師。(ima’ qu mlikuy qasa? hiya’ ga, sinsi maku’.)
+male
+one
+
+0961.mp3
+那個女人是誰？她是我的姊姊。(ima’ qu kneril qasa? hiya’ ga, qsuyan maku’ kneril.)
+male
+one
+
+0962.mp3
+那些小孩是誰？他們是我的朋友。(ima’ qu ’laqi’ qasa? lhan ga, rangi’ maku’.)
+male
+one
+
+0963.mp3
+你們家有幾個人？我們家有五個人。(pira’ hi’ qutux ngasal mamu’? zmagal hi’ myan kwara’.)
+male
+one
+
+0964.mp3
+你有幾個兄弟姊妹？我有一個姊姊和一個妹妹。(pira’ qu mtsswe’ su’? qutux qsuyan kneril ru qutux sswe’ kneril.)
+male
+one
+
+0965.mp3
+你有幾個朋友？我有很多朋友。(pira’ rangi’ su’? cingay rangi maku’.)
+male
+one
+
+0966.mp3
+你幾歲？我十五歲。(pira’ kawas su’ la? mopuw magal kawas maku’.)
+male
+one
+
+0967.mp3
+你妹妹幾歲？我妹妹六歲。(pira’ kawas nya’ qu sswe’ su’ kneril la? mtzyu’ kawas nya’ qu sswe’ maku’ kneril.)
+male
+one
+
+0968.mp3
+你爸爸幾歲？我爸爸四十歲。(pira’ kawas nya’ yaba’ su’ la? mpatul kawas nya’ qu yaba’ maku’.)
+male
+one
+
+0969.mp3
+這個小孩有幾隻狗？他有一隻狗。(pira’ huzil nya’ qu ’laqi’ qani? qutux huzil nya’.)
+male
+one
+
+0970.mp3
+你有幾本書？我有二本書。(pira’ biru’ su’ sazing biru’ maku’.)
+male
+one
+
+0971.mp3
+一個星期有幾天？一個星期有七天。(pira’ ryax qutux rehay wah? mpitu’ ryax qutux rehay.)
+male
+one
+
+0972.mp3
+現在是幾點鐘？現在是四點鐘。(pira’ tmucing la? payat tmucing la.)
+male
+one
+
+0973.mp3
+你早上幾點鐘起床？我早上六點鐘起床。(pira’ tmucing mtuliq su’ sasan? mtzyu’ tmucing mtuliq saku’ sasan.)
+male
+one
+
+0974.mp3
+你晚上幾點鐘睡覺？我晚上十點鐘睡覺。(pira’ tmucing m’abi’ su’ mhngan? mopuw tmucing m’abi’ saku’ mhngan.)
+male
+one
+
+0975.mp3
+今天是星期幾？今天是星期日。(te pira’ ryax soni’ la? soni’ ga, ryax hngawan.)
+male
+one
+
+0976.mp3
+你甚麼時候去山上？我昨天去山上。(knwan mnwah su’ rgyax? mnwah saku’ shira’.)
+male
+one
+
+0977.mp3
+他甚麼時候要去山上？他明天要去山上。(knwan mosa’ rgyax qu hiya’? mosa’ rgyax suxan qu hiya’.)
+male
+one
+
+0978.mp3
+這是什麼？這是牛。(nanu’ qani hiya’? qani ga, kacing.)
+male
+one
+
+0979.mp3
+那是什麼？那是樹。(nanu’ qasa hiya’? qasa ga, qhuniq.)
+male
+one
+
+0980.mp3
+那是什麼？那是彩虹。(nanu’ qasa hiya’? qasa ga, hongu’ utux.)
+male
+one
+
+0981.mp3
+我的筆在哪裡？你的筆在這裡。(cyux inu’ bbiru’ maku’? nyux sqani.)
+male
+one
+
+0982.mp3
+你爸爸在哪裡？我爸爸在學校裡。(cyux maki’ inu’ yaba’ su’? cyux maki’ pqwasan biru’ qu yaba’ maku’.)
+male
+one
+
+0983.mp3
+你們家在哪裡？我們家在山上。(cyux inu’ qu ngasal mamu? cyux maki’ rgyax qu ngasal myan.)
+male
+one
+
+0984.mp3
+你從哪裡來的？我從Mrqwang來的。(kahul su’ inu’? kahul saku’ Mrqwang.)
+male
+one
+
+0985.mp3
+你今天從哪裡來的？我今天從家裡來的。(minkahul su’ inu’ soni’? minkahul saku’ ngasal soni’.)
+male
+one
+
+0986.mp3
+你現在要去哪裡？我正要回家。(musa’ su’ inu’? musa’ saku’ ngasal.)
+male
+one
+
+0987.mp3
+你們昨天去哪裡？我們昨天去山上。(mnwah simu inu’ shera’? mnwah sami rgyax shera’.)
+male
+one
+
+0988.mp3
+你明天要去哪裡？我明天要去山上。(mosa’ simu inu’ suxan? mosa’ sami rgyax suxan.)
+male
+one
+
+0989.mp3
+這是誰的小孩？這是她的小孩。(’laqi’  ima’ qani? qani ga, ’laqi’ nya’.)
+male
+one
+
+0990.mp3
+這是誰的羊？這是他的羊。(mit  ima’ qani? qani ga, mit nya’.)
+male
+one
+
+0991.mp3
+這是誰的帽子？這是我的帽子。(qbubu’  ima’ qani? qani ga, qbubu’ maku’.)
+male
+one
+
+0992.mp3
+那是地瓜嗎？是/對，那是地瓜。(qasa ga, ngahi’ ga? aw. qasa ga, ngahi’.)
+male
+one
+
+0993.mp3
+那是香蕉嗎？不，那是玉米。(qasa ga, guquh ga? iyat. qasa ga, qetun.)
+male
+one
+
+0994.mp3
+你是學生嗎？是/對，我是學生。(isu’ ga, seto’? aw. kun ga, seto’.)
+male
+one
+
+0995.mp3
+他是老師嗎？不，他是醫生。(hiya’ ga, sinsi ga? iyat. hiya’ ga, sinsi phgup.)
+male
+one
+
+0996.mp3
+他是你的老師嗎？是/對，他是我的老師。(hiya’ ga, sinsi su’ ga? aw. hiya’ ga, sinsi maku’.)
+male
+one
+
+0997.mp3
+她是你的老師嗎？不，她是我的媽媽。(hiya’ ga, sinsi su’ ga? iyat. hiya’ ga, yaya’ maku’.)
+male
+one
+
+0998.mp3
+你的貓是黑色的嗎？是/對，我的貓是黑色的。(mqalux qu ngyaw su’ ga? aw, mqalux qu ngyaw maku’.)
+male
+one
+
+0999.mp3
+她的衣服是紅色的嗎？不，她的衣服是白色的。(mtalah qu lukus su’ ga? iyat, mplqwi’ qu lukus maku’.)
+male
+one
+
+1000.mp3
+這張桌子很重嗎？是/對，這張桌子很重。(r’usuw balay qu hanray qani? aw, r’usuw balay qu hanray qani.)
+male
+one
+
+1001.mp3
+那張椅子很重嗎？不，那張椅子很輕。(r’usuw balay qu thekan qani? ini’, lhbaw balay qu thekan qani.)
+male
+one
+
+1002.mp3
+你爸爸很高嗎？是/對，我爸爸很高。(gwagiq balay qu yaba’ su’ ga? aw, gwagiq balay qu yaba’ maku’.)
+male
+one
+
+1003.mp3
+你媽媽很高嗎？不，我媽媽很矮。(gwagiq balay qu yaya’ su’ ga? ini’, rroq balay qu yaya’ maku’.)
+male
+one
+
+1004.mp3
+她的頭髮很長嗎？是/對，她的頭髮很長。(qruzyux balay qu snonux nya’ ga? aw, qruzyux balay qu snonux nya’.)
+male
+one
+
+1005.mp3
+你的頭髮很長嗎？不，我的頭髮很短。(qruzyux balay qu snonux su’ ga? ini’, r’tung balay qu snonux maku’.)
+male
+one
+
+1006.mp3
+那個人很勤勞嗎？是/對，他很勤勞。(mqnzyat balay qu squliq qasa? aw, mqnzyat balay qu hiya’.)
+male
+one
+
+1007.mp3
+那個人很勤勞嗎？不，他很懶惰。(mqnzyat balay qu squliq qasa? ini’, mqilang balay qu hiya’.)
+male
+one
+
+1008.mp3
+他有孩子嗎？是/對，他有孩子。(cyux ’laqi’ nya’? aw, cyux ’laqi’ nya’.)
+male
+one
+
+1009.mp3
+你有狗嗎？是/對，我有一隻狗。(cyux huzil su’? aw, qutux huzil maku’.)
+male
+one
+
+1010.mp3
+你有一個妹妹嗎？是/對，我有一個妹妹。(qutux sswe’ su’ kneril? aw, qutux sswe’ maku’ kneril.)
+male
+one
+
+1011.mp3
+你有一個妹妹嗎？不，我有二個妹妹。(qutux sswe’ su’ kneril ga? iyat, sazing sswe’ maku’ kneril.)
+male
+one
+
+1012.mp3
+彩虹好看嗎？是/對，彩虹非常好看。(blaq balay ktan qu hongu’ utux ga? aw, blaq balay ktan qu hongu’ utux hiya’.)
+male
+one
+
+1013.mp3
+那間房子很大嗎？是/對，那間房子很大。(krahu’ balay qu ngasal qasa rwa’? aw, krahu’ balay qu ngasal qasa.)
+male
+one
+
+1014.mp3
+那間房子很大嗎？不，那間房子很小。(krahu’ balay qu ngasal qasa ga? ini’, cipoq balay qu ngasal qasa.)
+male
+one
+
+1015.mp3
+今天天氣好嗎？是/對，今天天氣很好。(blaq kayal nya’ soni’? aw, blaq balay kayal nya’ soni’.)
+male
+one
+
+1016.mp3
+今天天氣好嗎？不，正在下雨。(blaq kayal nya’ soni’? ini’, nyux mqwalax.)
+male
+one
+
+1017.mp3
+今天熱嗎？是/對，今天很熱。(mkilux kayal nya’ soni’? aw, mkilux balay kayal nya’ soni’.)
+male
+one
+
+1018.mp3
+今天熱嗎？不，今天很冷。(mkilux kayal nya’ soni’? ini’, hzyaq balay kayal nya’ soni’.)
+male
+one
+
+1019.mp3
+天黑了嗎？是/對，太陽下山了！(mnkum lga? aw, wal mbzyaq qu wagi’ la.)
+male
+one
+
+1020.mp3
+颱風來了嗎？是/對，今天下雨下得很大。(msbehuy lga? aw, hopa’ balay qwalax nya’ soni’.)
+male
+one
+
+1021.mp3
+他們天天看電視嗎？是/對，他們天天看電視。(mita’ teribiy krryax qu lhan qasa ga? aw, mita’ teribiy krryax qu lhan qasa.)
+male
+one
+
+1022.mp3
+你天天看電視嗎？不，我天天讀書。(mita’ su’ teribiy krryax? ini’, mita’ saku’ biru’ krryax.)
+male
+one
+
+1023.mp3
+她常常戴帽子嗎？是/對，她常常戴帽子。(mqbubu’ krryax qu hiya’ ga? aw, mqbubu’ krryax qu hiya’.)
+male
+one
+
+1024.mp3
+你妹妹在睡覺嗎？是/對，她在睡覺。(cyux m’abi’ qu sswe’ su’ kneril? aw, cyux m’abi’ qu sswe’ maku’ kneril.)
+male
+one
+
+1025.mp3
+那些孩子在玩耍嗎？是/對，那些孩子在玩耍。(cyux hmyapas qu lelaqi’ qasa ga? aw, cyux hmyapas qu lelaqi’ qasa.)
+male
+one
+
+1026.mp3
+下雨了！你帶著雨傘嗎？是/對，我帶著雨傘。(nyux mqwalax la! nyux su’ maras ruku’? aw, nyux saku’ maras ruku’.)
+male
+one
+
+1027.mp3
+在下雨嗎？是/對，正在下雨。(nyux mqwalax?? aw, nyux mqwalax.)
+male
+one
+
+1028.mp3
+在下雨嗎？不，太陽出來了！(nyux mqwalax? ini’, nyux mhtuw gwagi’ la.)
+male
+one
+
+1029.mp3
+你們常常去探望祖父嗎？是/對，我們常常去探望祖父。(musa’ simu’ mita’ yutas mamu krryax ga? aw, musa’ sami mita’ yutas myan krryax.)
+male
+one
+
+1030.mp3
+你們天天來這裡吃晚餐嗎？是/對，我們天天來這裡吃晚餐。(mwah simu kgabi’ sqani krryax? aw, mwah sami kgabi’ sqani krryax.)
+male
+one
+
+1031.mp3
+那個孩子喜歡畫圖嗎？是/對，他很喜歡畫圖。(smoya’ matas biru’ qu ’laqi’ qasa ga? aw, smoya’ matas biru’ qu ’laqi’ qasa.)
+male
+one
+
+1032.mp3
+你喜歡讀書嗎？是/對，我很喜歡讀書。(smoya’ su’ mita’ biru’ ga? aw, smoya’ saku’ mita’ biru’.)
+male
+one
+
+1033.mp3
+那些孩子會唱歌嗎？會/對，他們很會唱歌。(baq mqwas qu lelaqi’ qasa? aw, baq mqwas qu lelaqi’ qasa.)
+male
+one
+
+1034.mp3
+你會洗衣服嗎？會/對，我會洗衣服。(baq su’ mahuq lukus? aw, baq saku’ mahuq lukus.)
+male
+one
+
+1035.mp3
+你們正要去學校玩耍嗎？是/對，我們正要去學校玩耍。(nyux simu musa’ hmyapas pqwasan biru’ ga? aw, nyux sami musa’ hmyapas pqwasan biru’.)
+male
+one
+
+1036.mp3
+下午我可以出去玩嗎？ 好，你可以出去玩！(musa’ saku’ hmyapas / mzywi’ te tanux babaw kinryaxan ki? aw, ana su’ musa’ hmyapas / mzywi’ te tanux.)
+male
+one
+
+1037.mp3
+起立！敬禮！老師好！(tuliq! sinsi, lokah su’!)
+male
+one
+
+1038.mp3
+同學好 坐下！ (lokah simu kwara’! tama’!)
+male
+one
+
+1039.mp3
+請說！(kal cikay! / kayal cikay!)
+male
+one
+
+1040.mp3
+請聽！(pung cikay!)
+male
+one
+
+1041.mp3
+去讀書！(usa’ mita’ biru’!)
+male
+one
+
+1042.mp3
+去探望祖父！(usa’ mita’ yutas su’! / usa’ mcisal yutas su’!)
+male
+one
+
+1043.mp3
+別說話！(laxi kal! / laxi kayal!)
+male
+one
+
+1044.mp3
+別遲到！(laxi kqsuqi’!)
+male
+one
+
+1045.mp3
+別浪費！(laxi hiriq!)
+male
+one
+
+1046.mp3
+開窗！好！(gyahi tubung qasa! aw!)
+male
+one
+
+1047.mp3
+祖母，請開門！好！來了！(aki’, gyahi cikay blihun su’? han, naga’ saku’ cikay!)
+male
+one
+
+1048.mp3
+那是貓頭鷹嗎？不，那不是貓頭鷹。(qasa ga, nguziq ga? iyat, iyat ngzuq qasa hiya’.)
+male
+one
+
+1049.mp3
+他是老師嗎？不，他不是老師。(hiya’ ga, sinsi ga? iyat, iyat sinsi qu hiya’.)
+male
+one
+
+1050.mp3
+她是你的老師嗎？不，她不是我的老師。(hiya’ ga, sinsi su’ ga? iyat, iyat mu / maku’ sinsi hiya’.)
+male
+one
+
+1051.mp3
+她的衣服是紅色的嗎？不，她的衣服不是紅色的。(mtalah qu lukus nya’? iyat, ini’ ktalah lukus nya’.)
+male
+one
+
+1052.mp3
+那張椅子很重嗎？不，那張椅子不重。(r’usuw balay qu thekan qasa? ini’, ini’ k’usuw qu thekan qasa.)
+male
+one
+
+1053.mp3
+你媽媽很高嗎？不，我媽媽不高。(gwagiq balay qu yaya’ su’ ga? ini’, ini’ kgwagiq qu yaya’ mu.)
+male
+one
+
+1054.mp3
+你的頭髮很長嗎？不，我的頭髮不長。(qruzyux balay qu snonux su’ ga? ini’, ini’ kqruzyux qu snonux maku’.)
+male
+one
+
+1055.mp3
+那個人很勤勞嗎？不，他不勤勞。(mqnzyat balay qu mlikuy qasa ga? ini’, ini’ qnzyat qu mlikuy qasa.)
+male
+one
+
+1056.mp3
+你有弟弟嗎？不，我沒有弟弟。(cyux sswe’ su’ mlikuy? ungat, ungat sswe’ maku’ mlikuy.)
+male
+one
+
+1057.mp3
+那間房子很大嗎？不，那間房子不大。(krahu’ / hopa’ balay qu ngasal qasa? ini’, ini’ kkrahu’ / khopa’ qu ngasal qasa.)
+male
+one
+
+1058.mp3
+今天熱嗎？不，今天不熱。(mkilux kayal nya’ soni’? ini’, ini’ kkilux kayal nya’ soni’.)
+male
+one
+
+1059.mp3
+他們天天看電視嗎？不，他們沒有天天看電視。(mita’ teribiy krryax qu lhan ga? ini’, ini’ kita’ teribiy krryax qu lhan.)
+male
+one
+
+1060.mp3
+你天天讀書嗎？不，我沒有天天讀書。(mita’ su’ biru’ krryax? ini’, ini’ saku’ kita’ biru’ krryax.)
+male
+one
+
+1061.mp3
+你在讀書嗎？不，我沒有在讀書。(cyux su’ mita’ biru’? ini’, nyux saku’ ini’ kita’ biru’.)
+male
+one
+
+1062.mp3
+下雨了！你帶著雨傘嗎？不，我沒帶著雨傘。(nyux mqwalax la! nyux su’ maras ruku’? ini’, ini’ saku’ aras ruku’.)
+male
+one
+
+1063.mp3
+在下雨嗎？不，沒有在下雨！(nyux mqwalax? ini’, ini’ qwalax.)
+male
+one
+
+1064.mp3
+她喜歡那本書嗎？不，她不喜歡那本書。(s’yon nya’ biru’ qasa ga? ini’, ini’ soya’ biru’ qasa qu hiya’.)
+male
+one
+
+1065.mp3
+你很想念祖母嗎？是，我很想念祖母。(s’nun su’ balay yaki’ su’ ga? aw, s’nun maku’ balay yaki’ maku’.)
+male
+one
+
+1066.mp3
+你們天天來這裡吃晚餐嗎？不，我們沒有天天來這裡吃晚餐。(mwah simu kgabi’ sqani krryax? ini, ini’ sami uwah kgabi’ sqani krryax.)
+male
+one
+
+1067.mp3
+那個孩子喜歡畫圖嗎？不，他不喜歡畫圖。(smoya’ matas biru’ qu ’laqi’ qasa ga? ini’, ini’ soya’ matas biru’ qu ’laqi’ qasa.)
+male
+one
+
+1068.mp3
+那個孩子會唱歌嗎？不，他不會唱歌。(baq mqwas qu ’laqi’ qasa? ini’, ini’ qbaq mqwas qu ’laqi’ qasa.)
+male
+one
+
+1069.mp3
+你們正要去學校唱歌嗎？不，我們不是要去學校唱歌。(musa’ simu mqwas pqwasan biru’ ga? iyat, iyat sami musa’ mqwas te pqwasan biru’?)
+male
+one
+
+1070.mp3
+下午我可以出去玩嗎？不，你不可以出去玩！(ana saku’ musa’ hmyapas te tanux babaw kinryaxan lrwa? laxi, laxi usa’ hmyapas te tanux babaw kinryaxan.)
+male
+one
+
+1071.mp3
+他們的簍子裝滿了橘子嗎？不，他們的簍子沒有裝滿橘子。(msu’un sa kiri’ / waya’ nha’ qu yutak lga? ini’, ini’ ksu’un sa kiri’ / waya’ nha’ qu yutak.)
+male
+one
+
+1072.mp3
+別睡覺！我沒有在睡覺。(laxi ’abi’! nyux saku’ ini’ ’abi’.)
+male
+one
+
+1073.mp3
+別開門！我知道了！(laxi gyahi qu blihun! baqun maku’!)
+male
+one
+
+1074.mp3
+別忘記回來吃晚飯喔！我知道了！(laxi zngi uwah kgabi’ ki! baqun maku’!)
+male
+one
+
+1075.mp3
+如果雨停了，我可以出去玩嗎？如果雨停了，你可以出去玩。(mha ni mswat qu qwalax nya’ lga, ana saku’ musa’ hmyapas te tanux lrwa’? aw, mha ni mswat qu qwalax nya’ lga, ana su’ musa’ hmyapas te tanux la.)
+male
+one
+
+1076.mp3
+媽媽出去的時候，她戴著帽子嗎？是/對，媽媽出去的時候，她戴著帽子。(trang musa’ te tanux qu yaya’ ga, wal mqbubu’? aw, trang musa’ te tanux qu yaya’ ga, wal mqbubu’.)
+male
+one
+
+1077.mp3
+爸爸出去的時候，他帶著雨傘嗎？不，爸爸出去的時候，他沒有帶著雨傘。(trang musa’ te tanux qu yaba’ ga, wal maras ruku’? ini’. trang musa’ te tanux qu yaba’ ga, ini’ aras ruku’.)
+male
+one
+
+1078.mp3
+你們知道祖母明天要來嗎？是，我們知道祖母明天要來。(baqun mamu mwah suxan qu yaki’? aw, baqun myan mwah suxan qu yaki’.)
+male
+one
+
+1079.mp3
+你們知道嬸嬸明天要來嗎？不，我們不知道嬸嬸明天要來。(baqun mamu mwah suxan qu yata’? ini’. ini’ myan baqi mwah suxan qu yata’.)
+male
+one
+
+1080.mp3
+現在是夏天。夏天時，颱風很多。(’bagan la. cingay balay behuy nya’ qu ’bagan hiya’.)
+male
+one
+
+1081.mp3
+夏天時，溪水也很深。冬天時，溪水很淺。(’bagan lga, zzik balay uzi qu qsya’ na gong. qmisan lga, lhmiq balay qu qsya’ na gong la.)
+male
+one
+
+1082.mp3
+秋天時，橘子成熟了。我喜歡吃橘子。(huqan abaw lga, mhuqil qu yutak la. smoya’ saku’ maniq yutak.)
+male
+one
+
