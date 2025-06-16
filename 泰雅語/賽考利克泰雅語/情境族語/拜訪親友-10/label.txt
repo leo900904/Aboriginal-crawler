@@ -1,0 +1,490 @@
+0001.mp3
+請問Tapas在家嗎?(nyux maki’ ngasal qu Tapas?)
+male
+one
+
+0002.mp3
+她在家，請進來。(nyux ngasal ay. ’wah qsahuy ngasal.)
+male
+one
+
+0003.mp3
+請問Simuy在家嗎?(nyux maki’ ngasal qu Simuy?)
+male
+one
+
+0004.mp3
+她不在，請問你有什麼事?(nyux ini’ kaki’ ngasal. nanu’ zyuwaw su’ pi?)
+male
+one
+
+0005.mp3
+是誰阿?(ima’ sa?)
+male
+one
+
+0006.mp3
+爺爺，我是Pepay，請開門好嗎?(yutas, kuzing ga Pepay. gyah cikay blihun ha ku?)
+male
+one
+
+0007.mp3
+爺爺，我是Paypay，請開門好嗎?(yutas, kuzing ga Paypay. gyah cikay blihun ha ma’?)
+male
+one
+
+0008.mp3
+請問你是哪位?(ima’ su’ pi?)
+male
+one
+
+0009.mp3
+我是Kaynu’，我來找你聊聊天。(kuzing ga, Kaynu’. mwah saku’ cisal isu’.)
+male
+one
+
+0010.mp3
+好久不見。(bsyaq ta’ izyat minkita’ la.)
+male
+one
+
+0011.mp3
+是啊!我很想念你。快來，我們聊天吧!(aw rwa! s’nun misu’ balay la. ihi, ’wah aki’ ta’ mcisal ha!)
+male
+one
+
+0012.mp3
+請坐，請喝水。(tama’ nbu qsya’ ha.)
+male
+one
+
+0013.mp3
+請坐，請喝水。(thzyuk. nbu qsya’ ha.)
+male
+one
+
+0014.mp3
+請坐，請喝茶。(tama’. nbu ocya’ ha.)
+male
+one
+
+0015.mp3
+請坐，請喝茶。(thzyuk. nbu ocya’ ha.)
+male
+one
+
+0016.mp3
+謝謝。(mhway su’.)
+male
+one
+
+0017.mp3
+請喝茶。(nbu ocya’ ha.)
+male
+one
+
+0018.mp3
+你們的茶真好喝。(talagay! blaq balay nbun ocya’ mamu!)
+male
+one
+
+0019.mp3
+我們來吃水果吧!(mniqa ta’ cikay bway qhuniq ha.)
+male
+one
+
+0020.mp3
+好喔!這些水果看起來很棒。(aw! blaq balay ktan inrkyasan na bebway qhuniq qani.)
+male
+one
+
+0021.mp3
+好喔!這些水果看起來很棒。(aw! blaq balay ktan inrkyasan na baybway qhuniq qani.)
+male
+one
+
+0022.mp3
+水果好吃嗎?(blaq su’ niqun qu bway qhuniq qani?)
+male
+one
+
+0023.mp3
+是，真的很好吃。(aw’ ay! blaq balay niqun.)
+male
+one
+
+0024.mp3
+媽媽煮好晚餐了，快來吃吧!(blaq pinhapuy ni yaya’ la. ihi’ ’wah maniq la!)
+male
+one
+
+0025.mp3
+好，我去洗手。(aw. hala saku’ mima’ qba’ ha.)
+male
+one
+
+0026.mp3
+盡量吃喝，你又不是外人。(qiri’ maniq ki, bali su’ squliq.)
+male
+one
+
+0027.mp3
+我吃了很多，很飽了。(pzyux wal maku’ niqun la, mtngi’ balay la.)
+male
+one
+
+0028.mp3
+多吃一點，不要客氣。(qiri maniq, laxi ksazyux.)
+male
+one
+
+0029.mp3
+好，真好吃。(aw. blaq balay niqun.)
+male
+one
+
+0030.mp3
+我要離開了，下次再來看你。(mmosa’ saku’ la, wahay misu’ mita’ lozi babaw nya’.)
+male
+one
+
+0031.mp3
+我要離開了，下次再來看你。(mmawsa’ saku’ la, wahay misu’ mita’ lawzi babaw nya’.)
+male
+one
+
+0032.mp3
+好的，再見。(aw. msgazya ta’ la.)
+male
+one
+
+0033.mp3
+很晚了，我要回家了。(nyux mlhngan la. aki’ musa’ ngasal la.)
+male
+one
+
+0034.mp3
+下次再來玩喔!(’wah cisal lozi babaw nya’ ki!)
+male
+one
+
+0035.mp3
+下次再來玩喔!(’wah cisal lawzi babaw nya’ ki!)
+male
+one
+
+0036.mp3
+小心慢走。(thhway musa’ ki.)
+male
+one
+
+0037.mp3
+小心慢走。(thayhway musa’ ki.)
+male
+one
+
+0038.mp3
+好的，有空來我家玩。(aw. mhhriq su’ ga ’wah cisal ngasal maku’.)
+male
+one
+
+0039.mp3
+好的，有空來我家玩。(aw. mhayhriq su’ ga ’wah cisal ngasal maku’.)
+male
+one
+
+0040.mp3
+Lawa，你在家嗎?(Lawa, cyux su maki ngasal ga?)
+male
+one
+
+0041.mp3
+在，快進來。(nyux, helaw gwah mzyup.)
+male
+one
+
+0042.mp3
+Lawa，你在家嗎?(Lawa, cyux su maki ngsal ga?)
+male
+one
+
+0043.mp3
+Lawa不在家耶!我是Ipay，有什麼事嗎?回來我會轉告Lawa。(ini kaki ngasal lawa ay! kun ga Ipay, maki nanu zywaw pi? kyalaw maku mwah Lawa.)
+male
+one
+
+0044.mp3
+你們是誰?(ima simu ga?)
+male
+one
+
+0045.mp3
+奶奶，我們是Lawa和Ciwas，幫我們開門!(yaki, sami ga Lawa ru Ciwas!)
+male
+one
+
+0046.mp3
+是誰阿?(ima sa ga?)
+male
+one
+
+0047.mp3
+我是Watan，我是來找Temu的。(kun ga Watan, nyux saku mwah kangi Temu.)
+male
+one
+
+0048.mp3
+奶奶，我來看你了。(yaki nyux misu wahan mita la.)
+male
+one
+
+0049.mp3
+你好久沒來了，我好想念你。(bsiq balay ini su wah la, lungun misu balay.)
+male
+one
+
+0050.mp3
+Watan，我來找你玩了。(Watan mwah saku mzuy isu la.)
+male
+one
+
+0051.mp3
+快進來，我等你好久。(hay wah qsahuy, nyux misu ngon bsiq balay.)
+male
+one
+
+0052.mp3
+這是我種的地瓜，吃吃看!(qani ga ngahi nuya saku, qaniq cikay!)
+male
+one
+
+0053.mp3
+這地瓜真甜。(sbing balay ngahi qani.)
+male
+one
+
+0054.mp3
+過來!這是我種的水果，吃看看。(wah! qani ga nuya maku bway, qani cikay.)
+male
+one
+
+0055.mp3
+這水果好甜。(sbing balay bway qani.)
+male
+one
+
+0056.mp3
+請坐! 這是我種的有機玉米吃看看!(tama cikay ha! qani ga nuya maku btasaw na qetun niqi cikay ktay!)
+male
+one
+
+0057.mp3
+嗚!這玉米好甜。(oh! sbing balay qetun qani.)
+male
+one
+
+0058.mp3
+你要吃橘子嗎?(isu ga qaniq su yutak ga?)
+male
+one
+
+0059.mp3
+我不能吃橘子，我吃蘋果就好。(kun ga ini saku qaniq yutak, maniq ku ring’go yasa la.)
+male
+one
+
+0060.mp3
+你要吃餅乾嗎?(qaniq su pyah ga?)
+male
+one
+
+0061.mp3
+好，我很喜歡。(aw, smoya saku balay.)
+male
+one
+
+0062.mp3
+我削水果給你吃。(anay misu sqilis bway ru pniqay su.)
+male
+one
+
+0063.mp3
+謝謝，這水果好多汁。(mhuway su, bway qani ga, cingay balay boq nya.)
+male
+one
+
+0064.mp3
+我拿水給你喝。(s’agan misu qsya pnbun misu.)
+male
+one
+
+0065.mp3
+謝謝。(mhuway.)
+male
+one
+
+0066.mp3
+多吃點，我煮了很多菜。(cingay hazi maniq, cingay balay ramat hnapuy maku.)
+male
+one
+
+0067.mp3
+嗚! 真的很香也好吃。(uy! blaq balay sokan ru blaq niqun uzi.)
+male
+one
+
+0068.mp3
+多吃點，這裡還有很多。(cingay hazi maniq, nyux cingay hazi qani na.)
+male
+one
+
+0069.mp3
+我不客氣了喔!(iyat saku ksayux lay!)
+male
+one
+
+0070.mp3
+多吃點，這裡還有很多。(cingay cikay qaniq, nyux cingay balay qani na.)
+male
+one
+
+0071.mp3
+我吃了好多，不能再吃了。(wan ku maniq cingay iyal la, iyat saku thoyay maniq lozi la.)
+male
+one
+
+0072.mp3
+奶奶在家嗎?(cyux maki’ ngasal yaki’ su’?)
+male
+one
+
+0073.mp3
+在，她在房間睡覺。(aw, cyux m’abi sa qsahuy.)
+male
+one
+
+0074.mp3
+奶奶在家嗎?(cyux maki’ ngasal yaki’ su’ ?)
+male
+one
+
+0075.mp3
+不在，她剛出去了，要晚上才回家。(ini’ kaki’ ngasal, misan wal tanux, mwah ngasal gbyan.)
+male
+one
+
+0076.mp3
+你爺爺在家嗎?(cyux maki’ ngasal yutas su’?)
+male
+one
+
+0077.mp3
+他在二樓，你上去找他吧。(cyux te sazing ’rkan, hali’ hmkangi’ kya.)
+male
+one
+
+0078.mp3
+有人在家嗎?(kya’ ’tayal nyux ngasal?)
+male
+one
+
+0079.mp3
+是Temu阿，很久沒有看到你了，你好嗎?(Temu, bsyaq misu’ iyat kintan la, lokah su’ ga?)
+male
+one
+
+0080.mp3
+很好啊!我來找你聊天。(lokah saku’ ay, nyux saku’ mwah cisal isu’.)
+male
+one
+
+0081.mp3
+你的爸爸在哪裡?(cyux inu’ yaba’ su’?)
+male
+one
+
+0082.mp3
+他在廚房炒菜，我去叫他。(cyux tmahuk ramat te phpuyan, ’say maku’ mlawa’!)
+male
+one
+
+0083.mp3
+Pepay去哪裡了?(wal inu’ qu Pepay la?)
+male
+one
+
+0084.mp3
+她去雞寮抓雞了。(wal kmzyap ngta’ sa libu’ ngta’.)
+male
+one
+
+0085.mp3
+爺爺，我們來了。(yutas, nyux sami la.)
+male
+one
+
+0086.mp3
+你們的爺爺不在家，他在田裡，你們在家等他回來吧。(ini’ kaki’ ngasal qu yutas mamu, cyux qmayah, ’si’ n_ga kya ngasal..)
+male
+one
+
+0087.mp3
+叔叔你來啦!(mama’, nyux su’ lga.)
+male
+one
+
+0088.mp3
+好久不見，你長高了。(bsyaq misu’ iyat kintan la, nyux su’ wagiq la.)
+male
+one
+
+0089.mp3
+看到你來真開心。(mqas saku’ balay mita’ isu’.)
+male
+one
+
+0090.mp3
+這是給你們的鳳梨，要放到冰箱裡。(bniq maku simu qu pngran qani, hali smi’ sa tenpingsyang.)
+male
+one
+
+0091.mp3
+你這麼久沒來，我叫你的兄弟都來一起吃飯。(bsyaq iyat su’ minnwah la, plwanay maku’ kwara’ mtswe su’ ha, aki’ mwah mplaw maniq.)
+male
+one
+
+0092.mp3
+不用麻煩了，我喝茶就好，我們來客廳聊天。(laxi’ lnglung nanu’ la, si ta’ nbu ocya’, hala ta’ mcisal te tangha’.)
+male
+one
+
+0093.mp3
+謝謝你的招待，我要回去了。(blaq balay qu innaga’ su’, hala saku’ la.)
+male
+one
+
+0094.mp3
+這隻雞剛殺好，你帶回去慢慢吃。(misan tnahuk qu ngta’ qani, aras isu’, hali’ thhway maniq ngasal.)
+male
+one
+
+0095.mp3
+地瓜(ngahi’)
+male
+one
+
+0096.mp3
+玉米(qetun)
+male
+one
+
+0097.mp3
+有機玉米(puhut)
+male
+one
+
+0098.mp3
+水果(bway)
+male
+one
+

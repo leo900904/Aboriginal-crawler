@@ -1,0 +1,630 @@
+0001.mp3
+你是誰?(ima’ su’?)
+male
+one
+
+0002.mp3
+你叫什麼名字?(ima’ qu lalu’ su’?)
+male
+one
+
+0003.mp3
+我是Maray。(lalu’ maku’ ga, Maray.)
+male
+one
+
+0004.mp3
+你是誰?(ima’ su’?)
+male
+one
+
+0005.mp3
+我是Yukan的兒子，我叫Maray。(kun ga, ’laqi’ ni Yukan. Maray lalu’ maku’.)
+male
+one
+
+0006.mp3
+你是誰?(ima’ su’?)
+male
+one
+
+0007.mp3
+我是Yukan的學生，我叫Maray。(kun ga pinsbaqan ni Yukan. Maray lalu’ maku’.)
+male
+one
+
+0008.mp3
+你的名字是什麼?(ima’ qu lalu’ su’?)
+male
+one
+
+0009.mp3
+我的名字是Maray。(lalu’ maku’ ga, Maray.)
+male
+one
+
+0010.mp3
+你爸爸的名字是什麼?(ima’ qu lalu’ ni yaba’ su’?)
+male
+one
+
+0011.mp3
+我爸爸的名字是Yukan。(lalu’ ni yaba’ maku’ ga, Yukan.)
+male
+one
+
+0012.mp3
+他是誰?(ima’ qu hya’?)
+male
+one
+
+0013.mp3
+他是Tahus。(hya’ ga, Tahus.)
+male
+one
+
+0014.mp3
+他是我的哥哥，他叫Takun。(hya’ ga, qbsuzyan maku’. lalu’ nya’ ga, Takun.)
+male
+one
+
+0015.mp3
+他的名字是什麼?(ima’ qu lalu’ nya’?)
+male
+one
+
+0016.mp3
+他的名字是Tuyaw。(lalu’ nya’ ga, Tuyaw.)
+male
+one
+
+0017.mp3
+他的名字是Yukan嗎?(lalu’ nya’ ga, Yukan?)
+male
+one
+
+0018.mp3
+是，他的名字是Yukan。(aw, lalu’ nya’ ga, Yukan.)
+male
+one
+
+0019.mp3
+他的名字是Tuyaw嗎?(Tuyaw lalu’ nya’ ga?)
+male
+one
+
+0020.mp3
+不是，他的名字是Tahus。(izyat. lalu’ nya’ ga, Tahus.)
+male
+one
+
+0021.mp3
+那個人是誰?(ima’ qasa hizya’?)
+male
+one
+
+0022.mp3
+她是Binay。她是我的阿姨。(hya’ ga, Binay. yata’ maku’.)
+male
+one
+
+0023.mp3
+那個人是誰?(ima’ qasa hizya’?)
+male
+one
+
+0024.mp3
+她是我的朋友，她的名字是Amuy。(hya’ ga, rangi’ maku’, lalu’ nya’ ga, Amuy.)
+male
+one
+
+0025.mp3
+你今年幾歲?(pira’ kawas su’ la?)
+male
+one
+
+0026.mp3
+我今年10歲。(mopu kawas maku’ la.)
+male
+one
+
+0027.mp3
+我今年10歲。(mawpu kawas maku’ la.)
+male
+one
+
+0028.mp3
+他今年幾歲?(pira’ kawas nya’ la?)
+male
+one
+
+0029.mp3
+他今年12歲。(mopu sazing kawas nya’ la.)
+male
+one
+
+0030.mp3
+他今年12歲。(mawpu sazing kawas nya’ la.)
+male
+one
+
+0031.mp3
+你爸爸今年幾歲?(pira’ kawas ni yaba’ su’ la?)
+male
+one
+
+0032.mp3
+我爸爸今年50歲。(mzimal kawas ni yaba’ maku’ la.)
+male
+one
+
+0033.mp3
+你有幾個兄弟姊妹?(pira’ kwara’ mtswe’ su’?)
+male
+one
+
+0034.mp3
+你有幾個兄弟姊妹?(pira’ kwara’ mincgway’ su’?)
+male
+one
+
+0035.mp3
+我有兩個兄姐，一個弟妹。(sazing qbsuzyan maku’, qutux sswe’ maku’.)
+male
+one
+
+0036.mp3
+我有兩個兄姐，一個弟妹。(sazing qbsuzyan maku’, qutux ssgway’ maku’.)
+male
+one
+
+0037.mp3
+你有哥哥嗎?(kya qbsuzyan su’ mlikuy?)
+male
+one
+
+0038.mp3
+我沒有哥哥。(ungat qbsuzyan maku’ mlikuy.)
+male
+one
+
+0039.mp3
+你們家有幾個人?(pira’ hi’ kwara’ qutux su’ ngasal.)
+male
+one
+
+0040.mp3
+我們家有4個人。(spayat hi’ kwara’ qutux maku’ ngasal.)
+male
+one
+
+0041.mp3
+你在哪裡讀書?(cyux su’ mqwas biru’ inu’?)
+male
+one
+
+0042.mp3
+我在台北讀書。(cyux saku’ mqwas biru’ Bnka’.)
+male
+one
+
+0043.mp3
+大家好，我的名字是Yukan。(lokah ta kwara lalu mu ga Yukan.)
+male
+one
+
+0044.mp3
+Yukan你好。(Yukan lokah su.)
+male
+one
+
+0045.mp3
+大家好，我的名字是Temu。(lokah ta kwara, lalu maku ga Temu.)
+male
+one
+
+0046.mp3
+Temu你好。(Temu lokah su.)
+male
+one
+
+0047.mp3
+你好，我是Yukan。(lokah su, kun ga Yukan.)
+male
+one
+
+0048.mp3
+Yukan你好，我是Watan。(Yukan lokah su, kun ga Watan.)
+male
+one
+
+0049.mp3
+你好，我是Losin。(lokah su, kun ga Losin.)
+male
+one
+
+0050.mp3
+Losin你好，我是Watan。(Losin lokah su, kun ga Watan.)
+male
+one
+
+0051.mp3
+你是誰?(ima isu?)
+male
+one
+
+0052.mp3
+我是Tana的媽媽，我是Lawa。(kun ga yaya ni Tana, kun ga Lawa.)
+male
+one
+
+0053.mp3
+你是誰?(ima isu?)
+male
+one
+
+0054.mp3
+我是Rimuy的妹妹，我的名字是Pisuy。(kun ga sswe Rimuy knerin, lalu mu ga Pisuy.)
+male
+one
+
+0055.mp3
+他是誰?(ima qu hiya?)
+male
+one
+
+0056.mp3
+他是我的老師，他叫Yumin。(hiya ga sinsi, lalu nya ga Yumin.)
+male
+one
+
+0057.mp3
+那個人是誰?(ima qu squliq qasa?)
+male
+one
+
+0058.mp3
+他是我的哥哥，他叫Masin。(hiya ga qbsuyan maku mlikuy, lalu nya ga Masin.)
+male
+one
+
+0059.mp3
+他是Yukan嗎?(hiya ga Yukan pi?)
+male
+one
+
+0060.mp3
+是，他是Yukan。(aw, hiya ga Yukan.)
+male
+one
+
+0061.mp3
+你是Yukan嗎?(isu ga Yukan pi?)
+male
+one
+
+0062.mp3
+不是，我是Watan。(iyat, kun ga Watan.)
+male
+one
+
+0063.mp3
+誰是Yukan?(ima qu Yukan hiya.)
+male
+one
+
+0064.mp3
+我就是Yukan。(kun qu Yukan hiya.)
+male
+one
+
+0065.mp3
+誰是Watan?(ima qu Watan hiya.)
+male
+one
+
+0066.mp3
+Watan是我的朋友。(Watan ga rangi maku.)
+male
+one
+
+0067.mp3
+你姐姐的名字是什麼 ?(nanu qu lalu nya qbsuyan su kneril?)
+male
+one
+
+0068.mp3
+我的姐姐的名字是Tapas。(lalu nya qbsuyan mu knerin ga Tapas.)
+male
+one
+
+0069.mp3
+你妹妹的名字是什麼?(nanu lalu nya sswe su knerin?)
+male
+one
+
+0070.mp3
+我的妹妹的名字是Ciwas。(lalu ni sswe mu knerin ga Ciwas.)
+male
+one
+
+0071.mp3
+你知道他的名字嗎?(baqun su lalu nya pi?)
+male
+one
+
+0072.mp3
+他叫做Yukan。(Yukan qu lalu nya.)
+male
+one
+
+0073.mp3
+你哥哥今年幾歲?(pira kawas nya qbsuyan su mlikuy kawas qani?)
+male
+one
+
+0074.mp3
+他今年15歲了。(hiya ga mopuw zmagan kawas nya kawas qani.)
+male
+one
+
+0075.mp3
+你弟弟今年幾歲?(pira kawas nya sswe su mlikuy kawas qani?)
+male
+one
+
+0076.mp3
+他今年5歲了。(zmagan kawas nya kawas qani la.)
+male
+one
+
+0077.mp3
+你們的部落有學校嗎?(maki pqwasan qalang mamu pi?)
+male
+one
+
+0078.mp3
+有。(maki.)
+male
+one
+
+0079.mp3
+你在部落的學校讀書嗎?(cyux su mqwas biru pqwasan na qalang su ga?)
+male
+one
+
+0080.mp3
+是的，在學校讀書我們像一家人。(aw, kwara sami nyux mqwas biru pqwasan ga yan qu qutux cinngasal.)
+male
+one
+
+0081.mp3
+請自我介紹?(ima’ qu isu’ wah?)
+male
+one
+
+0082.mp3
+我叫Yumin Batu’，我今年10歲。(kuzing ga Yumin Batu’, mopuw kawas maku’ misuw qani.)
+male
+one
+
+0083.mp3
+你叫甚麼名字?(ima’ lalu’ su’?)
+male
+one
+
+0084.mp3
+我叫Yumin Batu’。(Yumin Batu’ lalu’ mu.)
+male
+one
+
+0085.mp3
+你是哪一族的小孩?(’tayal su’ inu’ wah?)
+male
+one
+
+0086.mp3
+我是泰雅族小孩。(’laqi’ saku’ na ’Tayal.)
+male
+one
+
+0087.mp3
+你的家人都是原住民嗎?(’tayal kwara’ qu ngasal mamu?)
+male
+one
+
+0088.mp3
+是的，我們全家都是泰雅族人。(aw, ’Tayal kwara’ sami qutux ngasal.)
+male
+one
+
+0089.mp3
+你的家人都是原住民嗎?(’tayal simu kwara’ qutux su ngasal?)
+male
+one
+
+0090.mp3
+不是，我的爸爸是泰雅族，我的媽媽是漢人。(iyat, yaba’ maku’ ga ’Tayal, yaya’ maku’ ga plmukan.)
+male
+one
+
+0091.mp3
+你是誰的小孩?(’laqi’ su’ ni ima?)
+male
+one
+
+0092.mp3
+我是Silan Nawi的小孩。(’laqi’ saku’ ni Silan Nawi.)
+male
+one
+
+0093.mp3
+那位是你爸爸嗎? 他幾歲了?(qasa ga yaba’ su’? pira’ kawas nya’ la?)
+male
+one
+
+0094.mp3
+他六十歲了。(mtzyu’ pgan kawas nya’ la.)
+male
+one
+
+0095.mp3
+那位是你爸爸嗎? 他幾歲了?(qasa’ ga yaba’ su’? pira’ kawas nya’ la?)
+male
+one
+
+0096.mp3
+不是，他是我們部落的耆老，他80歲了。(iyat, hya ga mrhuw na qalang myan, mspat pgan kawas nya’ la.)
+male
+one
+
+0097.mp3
+你哥哥幾歲了?(pira’ kawas nya’ qbsuzyan su’?)
+male
+one
+
+0098.mp3
+我哥哥18歲了。(mopuw spat kawas nya’ qu qbsuzyan mu la.)
+male
+one
+
+0099.mp3
+你哥哥年紀比你大很多嗎?(mstwahiq zyuwaw na kawas mamu ki qbsuzyan su’?)
+male
+one
+
+0100.mp3
+我們差5歲。(zmagal kawas qu zyuwaw myan.)
+male
+one
+
+0101.mp3
+你身高多少?(ktwa’ kinwagiq su’?)
+male
+one
+
+0102.mp3
+我140公分。(kbhul ru mspatul inci.)
+male
+one
+
+0103.mp3
+好久不見，你是不是長高了?(bsyaq ta’ iyat minkita’ la, wal tmwang kinwagiq su’ lrwa?)
+male
+one
+
+0104.mp3
+對阿，我130公分了。(aw la, kbhul ru mtzyul inci kinwagiq maku’ la.)
+male
+one
+
+0105.mp3
+你是不是胖了?(wal su qthuy lrwa?)
+male
+one
+
+0106.mp3
+沒有，你看錯了。(ini’ ay, nyux mtkari knita’ su’ la.)
+male
+one
+
+0107.mp3
+你瘦了嗎?(wal su’ mhikang la?)
+male
+one
+
+0108.mp3
+沒有，我胖了。(ini’, nyux saku’ qthuy la.)
+male
+one
+
+0109.mp3
+你胖了嗎?(wal su qthuy la?)
+male
+one
+
+0110.mp3
+對，我現在30公斤了。(aw, misuw qani ga mtzyul kunking la.)
+male
+one
+
+0111.mp3
+你(isu)
+male
+one
+
+0112.mp3
+他(hiya)
+male
+one
+
+0113.mp3
+我(kun)
+male
+one
+
+0114.mp3
+你們(simu)
+male
+one
+
+0115.mp3
+你的(su)
+male
+one
+
+0116.mp3
+我的(mu)
+male
+one
+
+0117.mp3
+他的(nya)
+male
+one
+
+0118.mp3
+你們的(mamu)
+male
+one
+
+0119.mp3
+名字(lalu)
+male
+one
+
+0120.mp3
+哥哥(qbsuyan)
+male
+one
+
+0121.mp3
+姊姊(qbsuyan)
+male
+one
+
+0122.mp3
+妹妹(sswe)
+male
+one
+
+0123.mp3
+弟弟(sswe)
+male
+one
+
+0124.mp3
+朋友(rangi)
+male
+one
+
+0125.mp3
+學校(pqwasan)
+male
+one
+
+0126.mp3
+部落(qalang)
+male
+one
+

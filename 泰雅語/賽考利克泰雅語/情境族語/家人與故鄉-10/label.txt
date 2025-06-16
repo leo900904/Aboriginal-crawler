@@ -1,0 +1,460 @@
+0001.mp3
+他是誰?(ima’ qu hya’?)
+male
+one
+
+0002.mp3
+他是我的叔叔。(hya’ ga, mama’ maku’.)
+male
+one
+
+0003.mp3
+你的舅舅從事什麼工作?(nanu’ cyux pcyuwagun ni mama’ su’?)
+male
+one
+
+0004.mp3
+他是警察。(hya’ ga, kinsat.)
+male
+one
+
+0005.mp3
+那個人是誰?(ima’ qasa’ hizya’?)
+male
+one
+
+0006.mp3
+她是我的姊姊。(hya’ ga, qbsuzyan maku’ kneril.)
+male
+one
+
+0007.mp3
+她是我的姊姊。(hya’ ga, qbsuzyan maku’ knayril.)
+male
+one
+
+0008.mp3
+你的姊姊有工作嗎?(cyux mulu pcyuwagun qu qbsuzyan su’ kneril?)
+male
+one
+
+0009.mp3
+你的姊姊有工作嗎?(cyux mulu pcyuwagun qu qbsuzyan su’ knayril?)
+male
+one
+
+0010.mp3
+她在醫院上班。(cyux mtzyuwaw byo’ing qu qbsuzyan maku’ kneril.)
+male
+one
+
+0011.mp3
+她在醫院上班。(cyux mtzyuwaw byo’ing qu qbsuzyan maku’ knayril.)
+male
+one
+
+0012.mp3
+他們兩個人是兄弟姐妹嗎?(laha’ sazing hi’ ga, mtswe’?)
+male
+one
+
+0013.mp3
+他們兩個人是兄弟姐妹嗎?(laha’ sazing hi’ ga, mincgway’?)
+male
+one
+
+0014.mp3
+不是，他們是朋友。(izyat. laha’ ga, msrangi’.)
+male
+one
+
+0015.mp3
+你是原住民嗎?(’tayal su’?)
+male
+one
+
+0016.mp3
+是，我是泰雅族的。(aw. kun ga, ’Tayal.)
+male
+one
+
+0017.mp3
+你的配偶是原住民嗎?(’tayal qu bes su’?)
+male
+one
+
+0018.mp3
+是，但是她是賽夏族的。(aw. hya’ ga, Saysyat.)
+male
+one
+
+0019.mp3
+你的爸爸很高嗎?(wagiq yaba’ su’?)
+male
+one
+
+0020.mp3
+對，我們全家都很高。(aw. wagiq sami kwara’ myan qutux ngasal.)
+male
+one
+
+0021.mp3
+你的妹妹上學了嗎?(cyux mqwas biru’ sswe’ su’ kneril la?)
+male
+one
+
+0022.mp3
+你的妹妹上學了嗎?(cyux mqwas biru’ saysgway’ su’ knayril la?)
+male
+one
+
+0023.mp3
+是，她上學了。(aw. cyux mqwas biru’ la.)
+male
+one
+
+0024.mp3
+你的弟妹會說族語嗎?(baq kmal ke’ na ’Tayal qu sswe’ su’?)
+male
+one
+
+0025.mp3
+你的弟妹會說族語嗎?(baq kmal kay’ na ’Tayal qu saysgway’ su’?)
+male
+one
+
+0026.mp3
+是，他們會說族語。(aw ay. baq kmal kwara’ nha’.)
+male
+one
+
+0027.mp3
+是，他們會說族語。(aw ay. baq kmal kwara’ naha’.)
+male
+one
+
+0028.mp3
+你有幾個兄弟姐妹?(pira’ kwara’ mtswe’ su’?)
+male
+one
+
+0029.mp3
+你有幾個兄弟姐妹?(pira’ kwara’ mincgway’ su’?)
+male
+one
+
+0030.mp3
+我有三個兄弟姐妹。(cyugal kwara’ mtswe’ maku’.)
+male
+one
+
+0031.mp3
+我有三個兄弟姐妹。(cyugal kwara’ mincgway’ maku’.)
+male
+one
+
+0032.mp3
+你和爸爸媽媽一起住嗎?(cyux simu mgluw maki’ ki yaba’ yaya’ su’?)
+male
+one
+
+0033.mp3
+是，我和爸爸媽媽一起住。(aw. mgluw sami maki’ ki yaba’ yaya’ maku’.)
+male
+one
+
+0034.mp3
+你和爺爺奶奶一起住嗎?(cyux simu mgluw maki’ ki yutas yaki’ su’?)
+male
+one
+
+0035.mp3
+不，我沒和跟他們一起住。(ini’. ini’ sami’ pgluw maki’.)
+male
+one
+
+0036.mp3
+你和誰一起住?(mgluw simu maki’ ki ima’?)
+male
+one
+
+0037.mp3
+我跟爸爸、媽媽、哥哥住在一起。(mgluw sami maki’ ki yaba’, yaya’ ru qbsuzyan maku’ mlikuy.)
+male
+one
+
+0038.mp3
+你從哪裡來?(minkahul su’ inu’?)
+male
+one
+
+0039.mp3
+我從Cinsbu’來。(minkahul saku’ Cinsbu’.)
+male
+one
+
+0040.mp3
+你們的家在哪裡?(cyux inu’ qu ngasal mamu?)
+male
+one
+
+0041.mp3
+我們的家在R’uzyan。(cyux R’uzyan qu ngasal maku’.)
+male
+one
+
+0042.mp3
+你的故鄉在哪裡?(cyux inu’ qu inkhulan su’?)
+male
+one
+
+0043.mp3
+我的故鄉在Slamaw。(inkhulan maku’ ga, cyux Slamaw.)
+male
+one
+
+0044.mp3
+你們的部落在哪裡?(cyux inu’ qu qalang mamu?)
+male
+one
+
+0045.mp3
+我們的部落在Pyanan。(qalang myan ga, cyux Pyanan.)
+male
+one
+
+0046.mp3
+你什麼時候會回去部落?(knwan ga, mosa’ su’ qalang su’?)
+male
+one
+
+0047.mp3
+你什麼時候會回去部落?(knwan ga, mawsa’ su’ qalang su’?)
+male
+one
+
+0048.mp3
+我暑假都會回去。(hngawan ’bagan ga, mutux saku’ musa’.)
+male
+one
+
+0049.mp3
+我是泰雅族小孩。(kun ga, ’laqi’ na ’Tayal.)
+male
+one
+
+0050.mp3
+那個男生是誰?(ima qu mlikuy qasa?)
+male
+one
+
+0051.mp3
+他是我叔叔。(hiya ga mama maku.)
+male
+one
+
+0052.mp3
+那個女生是誰?(ima qu knerin qasa?)
+male
+one
+
+0053.mp3
+她是我姐姐。(hiya ga qbsuyan maku knerin.)
+male
+one
+
+0054.mp3
+那個小孩是誰?(ima qu ’laqi qasa?)
+male
+one
+
+0055.mp3
+他是我的妹妹。(hiya ga sswe maku knerin.)
+male
+one
+
+0056.mp3
+你的媽媽從事什麼工作?(yaya su ga cyux mtzyuwaw nanu?)
+male
+one
+
+0057.mp3
+她是軍人。(hiya ga hetay.)
+male
+one
+
+0058.mp3
+你的爸爸從事什麼工作?(yaba su ga cyux mtzyuwaw nanu?)
+male
+one
+
+0059.mp3
+他是老師。(hiya ga sinsiy.)
+male
+one
+
+0060.mp3
+他是你弟弟嗎?(hiya ga sswe su mlikuy ga?)
+male
+one
+
+0061.mp3
+不是， 他是我弟弟的朋友。(iyat! hiya ga rangi sswe mu mlikuy.)
+male
+one
+
+0062.mp3
+她是你姊姊嗎?(hiya ga qbsuyan su knerin ga?)
+male
+one
+
+0063.mp3
+不是， 她是我的妹妹。(iyat! hiya ga sswe mu knerin.)
+male
+one
+
+0064.mp3
+他們全家有幾個人?(lhga ga pira kwara squliq cingasan nha?)
+male
+one
+
+0065.mp3
+他們全家有五個人。(lha ga zmagan kwara squliq cingasan na.)
+male
+one
+
+0066.mp3
+你們家有幾個小孩?(pira laqi cyux ngasal simu?)
+male
+one
+
+0067.mp3
+我們共有四個小孩。(payat kwara llaqi myan.)
+male
+one
+
+0068.mp3
+你有幾個弟妹?(pira cyux qu sswe su mlikuy ki knerin?)
+male
+one
+
+0069.mp3
+我沒有弟弟，有三位妹妹。(ungat qu sswe mlikuy, cyux cyugan qu knerin hiya.)
+male
+one
+
+0070.mp3
+你有幾個兄姊?(pira cyux qu qbsuyan su mlikuy ki knerin?)
+male
+one
+
+0071.mp3
+我沒有兄姊。(ungat qu qbsuyan mlikuy ki knerin mu.)
+male
+one
+
+0072.mp3
+你有幾個兄弟姐妹?(pira kwara cyux mtswe su?)
+male
+one
+
+0073.mp3
+我沒有兄弟姐妹。(ungat qu mtswe maku.)
+male
+one
+
+0074.mp3
+你們是兄弟嗎?(simu ga mtswe ga?)
+male
+one
+
+0075.mp3
+是，他是我哥哥。(hiya ga qbsuyan mu mlikuy.)
+male
+one
+
+0076.mp3
+你們是原住民嗎?(simu ga yuencumin ga?)
+male
+one
+
+0077.mp3
+是，我們是原住民。(aw! sami ga squliq na Tayal.)
+male
+one
+
+0078.mp3
+她也是泰雅族人嗎?(hiya ga squliq na Tayal ga?)
+male
+one
+
+0079.mp3
+是的，她也是泰雅族人。(aw! hiya ga squliq na Tayal.)
+male
+one
+
+0080.mp3
+阿姨(yata)
+male
+one
+
+0081.mp3
+叔叔(mama)
+male
+one
+
+0082.mp3
+哥哥(qbsuyan)
+male
+one
+
+0083.mp3
+姐姐(qbsuyan)
+male
+one
+
+0084.mp3
+弟弟(sswe)
+male
+one
+
+0085.mp3
+妹妹(sswe)
+male
+one
+
+0086.mp3
+兄姊(qbsuyan)
+male
+one
+
+0087.mp3
+兄弟姊妹(mtswe)
+male
+one
+
+0088.mp3
+弟妹(swagi)
+male
+one
+
+0089.mp3
+爺爺(yutas)
+male
+one
+
+0090.mp3
+奶奶(yaki)
+male
+one
+
+0091.mp3
+醫生(sinsi)
+male
+one
+
+0092.mp3
+老師(sinsiy)
+male
+one
+

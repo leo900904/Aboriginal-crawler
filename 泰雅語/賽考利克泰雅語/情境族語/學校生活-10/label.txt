@@ -1,0 +1,625 @@
+0001.mp3
+我忘了帶筆。(zmungi’ saku’ maras inpit la.)
+male
+one
+
+0002.mp3
+我忘了帶筆。(zngayn maku’ maras inpit la.)
+male
+one
+
+0003.mp3
+我借你。(pksyugay misu’.)
+male
+one
+
+0004.mp3
+我忘了帶筷子。(zmungi’ saku’ maras qway la.)
+male
+one
+
+0005.mp3
+我忘了帶筷子。(zngayn maku’ maras qway la.)
+male
+one
+
+0006.mp3
+我也沒有帶，我們去買。(ini’ saku’ aras uzi, hala ta’ mbazi.)
+male
+one
+
+0007.mp3
+我們去買筆好嗎?(hala ta’ mbazi inpit ku?)
+male
+one
+
+0008.mp3
+我們去買筆好嗎?(hala ta’ mbazi inpit ma’?)
+male
+one
+
+0009.mp3
+好，我還要買橡皮擦。(aw, pbazi saku’ ssom uzi na’.)
+male
+one
+
+0010.mp3
+好，我還要買橡皮擦。(aw, pbazi saku’ ssawm uzi na’.)
+male
+one
+
+0011.mp3
+我們去買早餐好嗎?(hala ta’ mbazi knmawn ku?)
+male
+one
+
+0012.mp3
+我們去買早餐好嗎?(hala ta’ mbazi knmawn ma’?)
+male
+one
+
+0013.mp3
+我不要去，我在家吃過了。(izyat saku’ musa’. kinnama’ saku’ ngasal la.)
+male
+one
+
+0014.mp3
+我忘記蒸便當了。(zmungi’ saku’ hmlngaw sbil la.)
+male
+one
+
+0015.mp3
+我忘了蒸我的便當了。(zngyan maku’ hmlngaw sbil maku’ la.)
+male
+one
+
+0016.mp3
+趕快拿去加熱吧!(ihi’ hali hmlngaw ru!)
+male
+one
+
+0017.mp3
+趕快拿去加熱吧!(nhay hali hmlngaw ru!)
+male
+one
+
+0018.mp3
+我忘記包便當了。(zmungi’ saku’ cbil la.)
+male
+one
+
+0019.mp3
+我忘記帶便當了。(zngayn maku’ maras sbil la.)
+male
+one
+
+0020.mp3
+那我們一起吃我的便當吧!(nanu’ si ta’ kr’agi maniq sbil maku’ la!)
+male
+one
+
+0021.mp3
+你中午要吃什麼?(nanu’ kryaxun su’?)
+male
+one
+
+0022.mp3
+我要吃學校的營養午餐。(pqaniq saku’ kryaxun na gaku’.)
+male
+one
+
+0023.mp3
+你中午要吃什麼?(nanu’ kryaxun su’?)
+male
+one
+
+0024.mp3
+我今天有帶便當，我們中午一起吃吧!(nyux saku’ maras sbil, nanu’ mglga ta’ kryax!)
+male
+one
+
+0025.mp3
+我們去打籃球好嗎?(hala ta’ mu’ mari’ ma?)
+male
+one
+
+0026.mp3
+我們去打籃球好嗎?(hala ta’ tmucing lancyu ma’?)
+male
+one
+
+0027.mp3
+好喔!我們走。(aw! cila.)
+male
+one
+
+0028.mp3
+我們去打棒球好嗎?(hala ta tmucing pangcyu ku?)
+male
+one
+
+0029.mp3
+我們去打棒球好嗎?(hala ta tmucing pangcyu ma’?)
+male
+one
+
+0030.mp3
+不要，我要讀書。(izyat saku’ musa’, pkita’ saku’ biru’.)
+male
+one
+
+0031.mp3
+請幫我拿掃把。(ani saku’ magal kagaw ha.)
+male
+one
+
+0032.mp3
+好，給，掃把在這裡。(aw. ni, nyux kagaw.)
+male
+one
+
+0033.mp3
+幫我拿布好嗎?(ani saku’ magal galiq ku?)
+male
+one
+
+0034.mp3
+幫我拿布好嗎?(ani saku’ magal galiq ma’?)
+male
+one
+
+0035.mp3
+我在掃地，你叫Yumin幫你拿。(nyux saku’ kmagaw, hali magal kusa Yumin.)
+male
+one
+
+0036.mp3
+你掃完了嗎?(wal su’ suqun kmagaw la?)
+male
+one
+
+0037.mp3
+我掃好了。(wal maku’ suqun kmagaw la.)
+male
+one
+
+0038.mp3
+你怎麼不打掃?(swa’ su’ ini’ kagaw?)
+male
+one
+
+0039.mp3
+我打掃完了。(tmasuq saku’ kmagaw la.)
+male
+one
+
+0040.mp3
+地板很髒，去擦一下。(m’uraw qu rhzyal, hali somi cikay ha.)
+male
+one
+
+0041.mp3
+地板很髒，去擦一下。(m’uraw qu rhzyal, hali sawmi cikay ha.)
+male
+one
+
+0042.mp3
+好，我去拿布。(aw, hala saku’ magal galiq.)
+male
+one
+
+0043.mp3
+好，我去幫你拿布。(aw, anay misu’ magal galiq.)
+male
+one
+
+0044.mp3
+那個窗戶很髒，去擦一下。(m’uraw qu tubung qasa, hali somi cikay ha.)
+male
+one
+
+0045.mp3
+那個窗戶很髒，去擦一下。(m’uraw qu tubung qasa, hali sawmi cikay ha.)
+male
+one
+
+0046.mp3
+等一下，我還沒掃完這裡。(ini’ na’ ha, nyux maku’ ini’ suqi kmagaw na’ qani.)
+male
+one
+
+0047.mp3
+你等一下要做什麼?(nanu’ pcyuwagun su’ kira’?)
+male
+one
+
+0048.mp3
+我要去找我的老師。(mosa’ saku’ hmkangi’ sinsi maku’.)
+male
+one
+
+0049.mp3
+我要去找我的老師。(mawsa’ saku’ hmkangi’ sinsi maku’.)
+male
+one
+
+0050.mp3
+你今天放學後要做什麼?(nanu’ pcyuwagun su’ i tmasuq ta’ mqwas biru’ kira’ la?)
+male
+one
+
+0051.mp3
+我要跟朋友去唱歌。(mawsa’ sami mglu mqwas ki rangi’ maku’.)
+male
+one
+
+0052.mp3
+他放學要做什麼?(nanu’ pcyuwagun nya’ i tmasuq mqwas biru’ kira?)
+male
+one
+
+0053.mp3
+要去游泳。(mosa’ mlngyaq.)
+male
+one
+
+0054.mp3
+要去游泳。(mawsa’ mlngyaq.)
+male
+one
+
+0055.mp3
+我忘了帶課本。(mungi saku maras bbiru la.)
+male
+one
+
+0056.mp3
+我跟你一起看。(gluw saku isu msqun mita.)
+male
+one
+
+0057.mp3
+我忘了帶橡皮擦。(mungi saku maras ssom.)
+male
+one
+
+0058.mp3
+我借你。(ksyugay misu.)
+male
+one
+
+0059.mp3
+你忘了帶筆嗎?(mungi su maras inpit pi?)
+male
+one
+
+0060.mp3
+對，你借我筆好嗎?(aw! ksyugay misu inpit ma?)
+male
+one
+
+0061.mp3
+你午餐要吃什麼?(nanu cyux su niqun kryaxan ga?)
+male
+one
+
+0062.mp3
+我要吃麵包。(qaniq saku pang.)
+male
+one
+
+0063.mp3
+你晚餐要吃什麼?(nanu qu niqun su kgabi?)
+male
+one
+
+0064.mp3
+我要吃飯。(qaniq ku mami.)
+male
+one
+
+0065.mp3
+你早餐吃了什麼?(wayan su klama la?)
+male
+one
+
+0066.mp3
+我吃了蛋。(mnaniq saku bazing la.)
+male
+one
+
+0067.mp3
+你午餐吃了什麼?(nanu wayan su niqun kryaxan?)
+male
+one
+
+0068.mp3
+我吃了雞肉。(mnaniq saku ngta’ la.)
+male
+one
+
+0069.mp3
+我們去踢球。(musa sami pkmah mari.)
+male
+one
+
+0070.mp3
+你先去，我等一下去找你。(usa lama, wahay misu kangi kira.)
+male
+one
+
+0071.mp3
+我們去游泳。(musa. sami mlngiq.)
+male
+one
+
+0072.mp3
+好啊!我們一起去。(agu! pgluw ta musa.)
+male
+one
+
+0073.mp3
+我們去玩球。(musa sami mzuy mari.)
+male
+one
+
+0074.mp3
+不要，我們先去搬書。(iyat saku, musa sami lama hmakut bbiru.)
+male
+one
+
+0075.mp3
+你刷牙了嗎?(wan su kmugus g’nux la.)
+male
+one
+
+0076.mp3
+還沒，我正在洗碗。(ini na, nyux saku qmwax pyatu’.)
+male
+one
+
+0077.mp3
+你漱口了嗎?(wan su qmwax nqwaq la.)
+male
+one
+
+0078.mp3
+我漱口了。(qmwax saku nqwaq la.)
+male
+one
+
+0079.mp3
+你洗碗了嗎?(wan su qmwax pyatu’ la.)
+male
+one
+
+0080.mp3
+我的碗洗好了。(wayan saku qwaxan pyatu’ la.)
+male
+one
+
+0081.mp3
+你怎麼沒洗手?(swa su ini qwaxi qba?)
+male
+one
+
+0082.mp3
+我等一下洗。(nagay cikay pqwax ku kira.)
+male
+one
+
+0083.mp3
+你剛剛在做什麼?(nanu cyux su pcyagun mwani?)
+male
+one
+
+0084.mp3
+我去找老師。(musa ku kangi sinsi.)
+male
+one
+
+0085.mp3
+你放學要做什麼?(nanu pcyagun su masok pqwasan?)
+male
+one
+
+0086.mp3
+我要直接回家。(si saku usa ngasan la.)
+male
+one
+
+0087.mp3
+她放學要做什麼?(nanu pcyagun nya masok pqwasan.)
+male
+one
+
+0088.mp3
+她要去跳舞。(hiya ga musa myugi.)
+male
+one
+
+0089.mp3
+你要去哪裡?(musa’ su’ inu’?)
+male
+one
+
+0090.mp3
+我要去辦公室找老師。(musa’ saku’ hmkangi’ sinsi squ bbrwan.)
+male
+one
+
+0091.mp3
+Losing要去哪裡?(musa’ inu’ qu Losing?)
+male
+one
+
+0092.mp3
+他要去丟垃圾。(musa’ muling syup qu Losing.)
+male
+one
+
+0093.mp3
+Tali在哪裡?(cyux inu’ qu Tali’?)
+male
+one
+
+0094.mp3
+他在游泳池，他等一下要比賽游泳。(cyux te lubung lngyaqan, musa’ mspung mlngyaq kira’ qu Tali’.)
+male
+one
+
+0095.mp3
+Ciwas在哪裡?她等一下要比賽跑步。(cyux inu’ qu Ciwas? mmosa’ mspung mqzinah kira’ la.)
+male
+one
+
+0096.mp3
+她在禮堂，我去叫她。(cyux sa krahu’ na pslyan, halay maku’ mlawa’.)
+male
+one
+
+0097.mp3
+一起去操場吧。(mglga ta’ musa’ pqnahan.)
+male
+one
+
+0098.mp3
+我先去買午餐，等一下去找你。(haku’ mbaziy kryaxun maku’ ha’, ’say misu’ hmkngi’ kira’.)
+male
+one
+
+0099.mp3
+一起去抬便當吧!(hata’ hmakut cbil ta’ ha!)
+male
+one
+
+0100.mp3
+你找別人，我要去找老師。(usa’ hmkangi’ squliq, mosa’ saku’ hmkangi’ sinsi.)
+male
+one
+
+0101.mp3
+Yumin今天要比賽槌球嗎?(Yumin pspung ta’ mari’ ka tcingun kira’?)
+male
+one
+
+0102.mp3
+沒有，他要比賽跳高!(iyat ay, mosa’ mspung mtazil ay!)
+male
+one
+
+0103.mp3
+運動會那天，你會上場比賽嗎?(ryax na unrokay ga, mosa’ su’ mspung nanu’?)
+male
+one
+
+0104.mp3
+會阿，我會比賽跑步。(aw ay, mosa’ saku’ mspung mqzinah.)
+male
+one
+
+0105.mp3
+運動會那天，你會上場比賽嗎?(ryax na unrokay ga, mosa’ su’ mspung nanu’?)
+male
+one
+
+0106.mp3
+我會比賽槌球。(mosa’ saku’ mspung squ mari’ tcingun.)
+male
+one
+
+0107.mp3
+我們運動會那天要做甚麼?(nanu’ qu ppcyuwagun ta’ ryax na unrokay?)
+male
+one
+
+0108.mp3
+我們要比賽拔河。(mosa’ ta’ mspung mhhuluy snyu.)
+male
+one
+
+0109.mp3
+我們運動會要賣食物嗎?(ptbaziy ta’ nniqun sa ryax na unrokay?)
+male
+one
+
+0110.mp3
+不，我們要賣氣球。(iyat, ptbaziy ta’ bubul.)
+male
+one
+
+0111.mp3
+你獲得了第一名耶，真是厲害！(nyux su’ magal icibang la, ta’ kinlokah su’!)
+male
+one
+
+0112.mp3
+謝謝。(mhway su’.)
+male
+one
+
+0113.mp3
+課本(bbiru)
+male
+one
+
+0114.mp3
+筆(inpit)
+male
+one
+
+0115.mp3
+橡皮擦(ssom)
+male
+one
+
+0116.mp3
+午餐(kryax)
+male
+one
+
+0117.mp3
+晚餐(kgabi)
+male
+one
+
+0118.mp3
+早餐(klama)
+male
+one
+
+0119.mp3
+踢球(mklkah)
+male
+one
+
+0120.mp3
+游泳(mlngiq)
+male
+one
+
+0121.mp3
+玩球(mzuy)
+male
+one
+
+0122.mp3
+刷牙(smgus)
+male
+one
+
+0123.mp3
+漱口(qrqor)
+male
+one
+
+0124.mp3
+衛生紙(rbal)
+male
+one
+
+0125.mp3
+碗(pyatu’)
+male
+one
+
