@@ -153,3 +153,78 @@ one
 male
 one
 
+0032.mp3
+為什麼你那麼膽小。(mswa su kwan balay.)
+male
+one
+
+0033.mp3
+老鼠呀老鼠。(qoli ga qoli.)
+male
+one
+
+0034.mp3
+為什麼你的眼睛總是那麼小。(mswa cipoq balay rozyaq su.)
+male
+one
+
+0035.mp3
+老鼠呀老鼠。(qoli ga qoli.)
+male
+one
+
+0036.mp3
+為什麼你的尾巴會那麼長呢。(mswa qruyux balay ngungu su.)
+male
+one
+
+0037.mp3
+老鼠呀老鼠。(qoli ga qoli.)
+male
+one
+
+0038.mp3
+不要再到我們家偷吃東西了好嗎?(laxi uwah quryaq maniq qaya ngasal ku ma?)
+male
+one
+
+0039.mp3
+泰雅男人會打獵，(baq qmaluq qu mlikuy na Tayal.)
+male
+one
+
+0040.mp3
+泰雅女人會織布，(baq tminun qu knerin na Tayal.)
+male
+one
+
+0041.mp3
+就可以紋面。(yasa baqun ptasan la.)
+male
+one
+
+0042.mp3
+聽過部落的老人家說過，(pongan ke na bnkis qalang ga.)
+male
+one
+
+0043.mp3
+從前我們部落有兩個太陽，(raran ga kya sazing wagi ma.)
+male
+one
+
+0044.mp3
+所以每天都非常的炎熱，(yasa kilux balay krryax pi.)
+male
+one
+
+0045.mp3
+後來他們去射下一個以後，(wahan nha mu qutux lga.)
+male
+one
+
+0046.mp3
+就剩下像現在這樣了。(thay mya misu qani la.)
+male
+one
+
