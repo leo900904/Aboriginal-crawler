@@ -1,0 +1,375 @@
+0351.mp3
+我有一隻狗。(nyux qutux huzil maku’.)
+male
+one
+
+0352.mp3
+我有一隻貓。(nyux qutux ngyaw maku’.)
+male
+one
+
+0353.mp3
+我有一隻鳥。(nyux qutux qbhniq maku’.)
+male
+one
+
+0354.mp3
+他們有書。(cyux biru’ nha’.)
+male
+one
+
+0355.mp3
+他們有鉛筆。(cyux bbiru’ nha’.)
+male
+one
+
+0356.mp3
+他們有橡皮擦。(cyux ssom nha’.)
+male
+one
+
+0357.mp3
+你有地瓜嗎？(cyux ngahi’ su’?)
+male
+one
+
+0358.mp3
+你有玉米嗎？(cyux qetun / qciyay su’?)
+male
+one
+
+0359.mp3
+你有稻子嗎？(cyux pagay su’?)
+male
+one
+
+0360.mp3
+我們有錢。(nyux pila’ myan.)
+male
+one
+
+0361.mp3
+我們有衣服。(nyux lukus myan.)
+male
+one
+
+0362.mp3
+我們有雨傘。(nyux ruku’ myan.)
+male
+one
+
+0363.mp3
+她有姊姊。(cyux qbsuyan nya’ kneril.)
+male
+one
+
+0364.mp3
+她有弟弟。(cyux sswe’ nya’ mlikuy.)
+male
+one
+
+0365.mp3
+她有朋友。(cyux rangi’ nya’.)
+male
+one
+
+0366.mp3
+我的牛在哪裡？(cyux inu’ kacing maku’?)
+male
+one
+
+0367.mp3
+我的羊在哪裡？(cyux inu’ mit maku’?)
+male
+one
+
+0368.mp3
+我的豬在哪裡？(cyux inu’ bzyok maku’?)
+male
+one
+
+0369.mp3
+他們的桌子在哪裡？(cyux inu’ hanray nha’?)
+male
+one
+
+0370.mp3
+他們的椅子在哪裡？(cyux inu’ thekan nha’?)
+male
+one
+
+0371.mp3
+他們的電話在哪裡？(cyux inu’ kkyalan / renwa’ nha’?)
+male
+one
+
+0372.mp3
+你的花在哪裡？(cyux inu’ phpah su’?)
+male
+one
+
+0373.mp3
+你的地瓜在哪裡？(cyux inu’ ngahi’ su’?)
+male
+one
+
+0374.mp3
+你的玉米在哪裡？(cyux inu’ qetun su’?)
+male
+one
+
+0375.mp3
+你們的香蕉在哪裡？(cyux inu’ guquh mamu’?)
+male
+one
+
+0376.mp3
+你們的橘子在哪裡？(cyux inu’ yutak mamu?)
+male
+one
+
+0377.mp3
+你們的甘蔗在哪裡？(cyux inu’ bilus mamu?)
+male
+one
+
+0378.mp3
+她的家在哪裡？(cyux inu’ ngasal nya’?)
+male
+one
+
+0379.mp3
+她的學校在哪裡？(cyux inu’ pqwasan nya’ biru’?)
+male
+one
+
+0380.mp3
+她的球在哪裡？(cyux inu’ mari’ nya’?)
+male
+one
+
+0381.mp3
+我正在讀書。(nyux saku’ mita’ biru’.)
+male
+one
+
+0382.mp3
+我正在洗衣服。(nyux saku’ mahuq lukus.)
+male
+one
+
+0383.mp3
+我正在洗臉。(nyux saku’ mima’ rqyas.)
+male
+one
+
+0384.mp3
+那些男孩子正在拜訪祖母。(cyux musa’ mita’ yaki’ qu lelaqi’ qasa.)
+male
+one
+
+0385.mp3
+那些男孩子正在看電視。(cyux mita’ teribiy qu lelaqi’ qasa.)
+male
+one
+
+0386.mp3
+那些男孩子正在讀書。(cyux mita’ biru’ qu lelaqi’ qasa.)
+male
+one
+
+0387.mp3
+你正在唱歌嗎？(cyux su’ mqwas?)
+male
+one
+
+0388.mp3
+你正在洗臉嗎？(cyux su’ mima’ rqyas?)
+male
+one
+
+0389.mp3
+你正在畫圖嗎？(cyux su’ matas biru’?)
+male
+one
+
+0390.mp3
+我們正在吃。(nyux sami maniq.)
+male
+one
+
+0391.mp3
+我們正在唱歌。(nyux sami mqwas.)
+male
+one
+
+0392.mp3
+我們正在玩耍。(nyux sami mh’yapas.)
+male
+one
+
+0393.mp3
+那個男孩子正在畫圖。(cyux matas biru’ qu ’laqi’ mlikuy qasa.)
+male
+one
+
+0394.mp3
+那個男孩子正在跳舞。(cyux mzyugi’ qu ’laqi’ mlikuy qasa.)
+male
+one
+
+0395.mp3
+那個男孩子正在唱歌。(cyux mqwas qu ’laqi’ mlikuy qasa.)
+male
+one
+
+0396.mp3
+我會洗衣服。(baq saku’ mahuq lukus.)
+male
+one
+
+0397.mp3
+我會洗臉。(baq saku’ mima’ rqyas.)
+male
+one
+
+0398.mp3
+我會讀書。(baq saku’ mqwas biru’.)
+male
+one
+
+0399.mp3
+那些女孩子喜歡看電視。(smoya’ mita’ teribiy qu kkneril qasa.)
+male
+one
+
+0400.mp3
+那些女孩子喜歡讀書。(smoya’ mita’ biru’ qu lelaqi’ kkneril qasa.)
+male
+one
+
+0401.mp3
+那些女孩子喜歡拜訪爺爺。(smoya’ musa’ mita’ yutas qu kkneril qasa.)
+male
+one
+
+0402.mp3
+你會畫圖嗎？(baq su’ matas biru’?)
+male
+one
+
+0403.mp3
+你會唱歌嗎？(baq su’ mqwas?)
+male
+one
+
+0404.mp3
+你會洗臉嗎？(baq su’ mima’ rqyas?)
+male
+one
+
+0405.mp3
+那些孩子喜歡唱歌。(smoya’ mqwas qu lelaqi’ qasa.)
+male
+one
+
+0406.mp3
+那些孩子喜歡玩耍。(smoya’ hmyapas qu lelaqi’ qasa.)
+male
+one
+
+0407.mp3
+那些孩子喜歡吃。(smoya’ maniq qu lelaqi’ qasa.)
+male
+one
+
+0408.mp3
+那個女孩子喜歡跳舞。(smoya’ mzyugi’ qu kneril qasa.)
+male
+one
+
+0409.mp3
+那個女孩子喜歡唱歌。(smoya’ mqwas qu kneril qasa.)
+male
+one
+
+0410.mp3
+那個女孩子喜歡畫圖(smoya’ matas biru’ qu kneril qasa.)
+male
+one
+
+0411.mp3
+太陽出來了！(mhtuw qu gwagi’ la!)
+male
+one
+
+0412.mp3
+月亮出來了！(mhtuw qu byacing la!)
+male
+one
+
+0413.mp3
+星星出來了！(mhtuw qu bingah la!)
+male
+one
+
+0414.mp3
+星星很美麗！(betunux balay qu bingah hiya’!)
+male
+one
+
+0415.mp3
+彩虹很美麗！(betunux balay qu hongu’ utux hiya’!)
+male
+one
+
+0416.mp3
+月亮很美麗！(betunux balay qu byacing hiya’!)
+male
+one
+
+0417.mp3
+月亮出來了嗎？(mhtuw byacing lga?)
+male
+one
+
+0418.mp3
+星星出來了嗎？(mhtuw qu bingah lga?)
+male
+one
+
+0419.mp3
+太陽出來了嗎？(mhtuw qu gwagi’ lga?)
+male
+one
+
+0420.mp3
+彩虹看起來很美麗！(betunux balay ktan qu hongu’ utux hiya’!)
+male
+one
+
+0421.mp3
+月亮看起來很美麗！(betunux balay ktan qu byacing hiya’!)
+male
+one
+
+0422.mp3
+太陽看起來很美麗！(betunux balay ktan qu gwagi’ hiya’!)
+male
+one
+
+0423.mp3
+今天是好天氣！(blaq kayal nya’ soni’?)
+male
+one
+
+0424.mp3
+下雨了！(nyux mqwalax la!)
+male
+one
+
+0425.mp3
+彩虹很美麗！(betunux balay qu hongu’ utux!)
+male
+one
+

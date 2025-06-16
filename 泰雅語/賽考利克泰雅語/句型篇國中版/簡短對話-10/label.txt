@@ -1,0 +1,250 @@
+0551.mp3
+你好嗎？(lokah su’ ga?)
+male
+one
+
+0552.mp3
+你今天從哪裡來？(minkahul su’ inu’ soni’?)
+male
+one
+
+0553.mp3
+你們家有多少人？(pira’ hi’ qutux ngasal mamu?)
+male
+one
+
+0554.mp3
+你是泰雅族嗎？(Tayal su’ ga?)
+male
+one
+
+0555.mp3
+你會說族語嗎？(baq su’ kmayal ke’ na Tayal?)
+male
+one
+
+0556.mp3
+你今天好嗎？(lokah su’ ga?)
+male
+one
+
+0557.mp3
+你現在在哪裡？(nyux su’ maki’ inu’?)
+male
+one
+
+0558.mp3
+你有幾個兄弟姊妹？(pira’ qu mtswe’ su’?)
+male
+one
+
+0559.mp3
+你是學生嗎？(isu’ ga, seto’?)
+male
+one
+
+0560.mp3
+你喜歡讀書嗎？(smoya’ su’ mita’ biru’?)
+male
+one
+
+0561.mp3
+你叫甚麼名字？(ima’ lalu’ su’?)
+male
+one
+
+0562.mp3
+你們家在哪裡？(cyux inu’ ngasal mamu’?)
+male
+one
+
+0563.mp3
+你幾歲了？(pira’ kawas su’?)
+male
+one
+
+0564.mp3
+你很高嗎？(gwagiq su’ balay ga?)
+male
+one
+
+0565.mp3
+你喜歡學族語嗎？(smoya’ su’ mqbaq ke’ ta’ Tayal?)
+male
+one
+
+0566.mp3
+你好嗎？(lokah su’ ga?)
+male
+one
+
+0567.mp3
+你的學校在哪裡？(cyux inu’ pqwasan su’ biru’?)
+male
+one
+
+0568.mp3
+你有幾個朋友？(pira’ rangi’ su’?)
+male
+one
+
+0569.mp3
+你們天天一起讀書嗎？(mita’ simu biru’ krryax?)
+male
+one
+
+0570.mp3
+你們會說族語嗎？(baq simu kmayal ke’ na Tayal ga?)
+male
+one
+
+0571.mp3
+你叫甚麼名字？(ima’ lalu’ su’?)
+male
+one
+
+0572.mp3
+你等一下要去哪裡？(musa’ su’ inu’ kira’?)
+male
+one
+
+0573.mp3
+你們家有幾台電視？(pira’ teribiy ngasal mamu?)
+male
+one
+
+0574.mp3
+你天天看電視嗎？(mita’ su’ teribiy krryax?)
+male
+one
+
+0575.mp3
+你喜歡看電視嗎？(smoya’ su’ mita’ teribiy?)
+male
+one
+
+0576.mp3
+你好嗎？(lokah su’ ga?)
+male
+one
+
+0577.mp3
+你今天從哪裡來？(minkahul su’ inu’ soni’?)
+male
+one
+
+0578.mp3
+你們家有多少人？(pira’ hi’ ngasal mamu?)
+male
+one
+
+0579.mp3
+你爸爸是原住民嗎？(Tayal yaba’ su’ ga??)
+male
+one
+
+0580.mp3
+你爸爸很會說族語嗎？(baq balay kmal ke’ na Tayal yaba’ su’ ga?)
+male
+one
+
+0581.mp3
+你今天好嗎？(lokah su’ soni’ ga?)
+male
+one
+
+0582.mp3
+你現在在哪裡？(nyux su’ maki’ inu’?)
+male
+one
+
+0583.mp3
+你有幾個兄弟姊妹？(pira’ mtswe’ su’?)
+male
+one
+
+0584.mp3
+你的兄弟姊妹也是學生嗎？(seto’ uzi mtswe’ su’ ga?)
+male
+one
+
+0585.mp3
+你們都喜歡唱歌嗎？(smoya’ simu mqwas kwara’?)
+male
+one
+
+0586.mp3
+你叫甚麼名字？(ima’ lalu’ su’?)
+male
+one
+
+0587.mp3
+你媽媽現在在哪裡？(cyux inu’ yaya’ su’?)
+male
+one
+
+0588.mp3
+她幾歲了？(pira’ kawas nya’ la?)
+male
+one
+
+0589.mp3
+她很高嗎？(gwagiq qu hiya’ ga?)
+male
+one
+
+0590.mp3
+你媽媽常說族語嗎？(kmayal ke’ na Tayal krryax yaya’ su’?)
+male
+one
+
+0591.mp3
+你好嗎？(lokah su’ ga?)
+male
+one
+
+0592.mp3
+你祖父祖母現在在哪裡？(cyux inu’ yutas su’ ru yaki’ su’?)
+male
+one
+
+0593.mp3
+他們有幾個孩子？(pira’ laqi’ nha’?)
+male
+one
+
+0594.mp3
+你常去探望祖父祖母嗎？(musa’ su’ mita’ yutas ki yaki’ su’ krryax?)
+male
+one
+
+0595.mp3
+你的祖父祖母很會說族語嗎？(baq balay kmayal ke’ na Tayal yutas ki yaki’ su’?)
+male
+one
+
+0596.mp3
+你叫甚麼名字？(ima’ lalu’ su’?)
+male
+one
+
+0597.mp3
+你的學校在哪裡？(cyux inu’ pqwasan su’ biru’?)
+male
+one
+
+0598.mp3
+你有幾個朋友？(pira’ rangi’ su’?)
+male
+one
+
+0599.mp3
+你喜歡你的朋友嗎？(soyan su’ rangi’ su’?)
+male
+one
+
+0600.mp3
+你喜歡畫畫嗎？(smoya’ su’ matas biru’?)
+male
+one
+

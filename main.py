@@ -261,10 +261,16 @@ def main():
     driver = setup_driver()
     
     # 語言設定
+    # LANG_CONFIG = {
+    #     "main_lang": "排灣語",
+    #     "dialect": "東排灣語"
+    # }
+    # 賽考利克泰雅語
     LANG_CONFIG = {
-        "main_lang": "排灣語",
-        "dialect": "東排灣語"
+        "main_lang": "泰雅語",
+        "dialect": "賽考利克泰雅語"
     }
+    
     
     # LANG_CONFIG = {
     #     "main_lang": "阿美語",
@@ -278,76 +284,74 @@ def main():
         os.makedirs(dialect_folder, exist_ok=True)
 
         crawlers = {
-            # '字母篇': {
-            #     'url': 'https://web.klokah.tw/extension/ab_practice/index.php',
-            #     'func': crawl_alphabet_words,
-            #     'folder': '字母篇'
-            # }
-            # ,
-            # '句型篇國中版': {
-            #     'url': 'https://web.klokah.tw/extension/sp_junior/practice.php',
-            #     'func': crawl_sentences,
-            #     'folder': '句型篇國中版'
-            # }
-            # ,
-            # '句型篇高中版': {
-            #     'url': 'https://web.klokah.tw/extension/sp_senior/practice.php',
-            #     'func': crawl_sentences,
-            #     'folder': '句型篇高中版'
-            # }
-            # ,
-            # '十二年國教課程': {
-            #     'url': 'https://web.klokah.tw/twelve/learn.php',
-            #     'func': crawl_twelve_year_course,
-            #     'folder': '十二年國教課程'
-            # }
-            # ,
-            # '圖畫故事篇': {
-            #     'url': 'https://web.klokah.tw/extension/ps_practice/',
-            #     'func': crawl_picture_stories,
-            #     'folder': '圖畫故事篇'
-            # }
-            # ,
-            # '生活會話篇': {
-            #     'url': 'https://web.klokah.tw/extension/con_practice/',
-            #     'func': crawl_life_conversation,
-            #     'folder': '生活會話篇'
-            # }
-            # ,
-            # '閱讀書寫篇': {
-            #     'url': 'https://web.klokah.tw/extension/rd_practice/',
-            #     'func': crawl_reading_writing,
-            #     'folder': '閱讀書寫篇'
-            # }
-            # ,
-            # '文化篇': {
-            #     'url': 'https://web.klokah.tw/extension/cu_practice/',
-            #     'func': crawl_culture,
-            #     'folder': '文化篇'
-            # }
-            # ,
-            # '學習詞表': {
-            #     'url': 'https://web.klokah.tw/vocabulary/', # 到第32個小輪就會斷掉 爬不到 所有要再改 start_number=1 變成32開始繼續爬
-            #     'func': crawl_vocabulary,
-            #     'folder': '學習詞表'
-            # },
-            # '情境族語': {
-            #     'url': 'https://web.klokah.tw/dialogue/', 
-            #     'func': crawl_dialogue,
-            #     'folder': '情境族語'  # 學習三 的 單詞學習 爬不出來 明明學習二的單詞學習就爬的到 
-            # },
-            # '族語短文': {
-            #     'url': 'https://web.klokah.tw/essay/',
-            #     'func': crawl_essay,
-            #     'folder': '族語短文'
-            # },  
+            '字母篇': {
+                'url': 'https://web.klokah.tw/extension/ab_practice/index.php',
+                'func': crawl_alphabet_words,
+                'folder': '字母篇'
+            }
+            ,
+            '句型篇國中版': {
+                'url': 'https://web.klokah.tw/extension/sp_junior/practice.php',
+                'func': crawl_sentences,
+                'folder': '句型篇國中版'
+            }
+            ,
+            '句型篇高中版': {
+                'url': 'https://web.klokah.tw/extension/sp_senior/practice.php',
+                'func': crawl_sentences,
+                'folder': '句型篇高中版'
+            }
+            ,
+            '十二年國教課程': {
+                'url': 'https://web.klokah.tw/twelve/learn.php',
+                'func': crawl_twelve_year_course,
+                'folder': '十二年國教課程'
+            }
+            ,
+            '圖畫故事篇': {
+                'url': 'https://web.klokah.tw/extension/ps_practice/',
+                'func': crawl_picture_stories,
+                'folder': '圖畫故事篇'
+            }
+            ,
+            '生活會話篇': {
+                'url': 'https://web.klokah.tw/extension/con_practice/',
+                'func': crawl_life_conversation,
+                'folder': '生活會話篇'
+            }
+            ,
+            '閱讀書寫篇': {
+                'url': 'https://web.klokah.tw/extension/rd_practice/',
+                'func': crawl_reading_writing,
+                'folder': '閱讀書寫篇'
+            }
+            ,
+            '文化篇': {
+                'url': 'https://web.klokah.tw/extension/cu_practice/',
+                'func': crawl_culture,
+                'folder': '文化篇'
+            }
+            ,
+            '學習詞表': {
+                'url': 'https://web.klokah.tw/vocabulary/', # 到第32個小輪就會斷掉 爬不到 所有要再改 start_number=1 變成32開始繼續爬
+                'func': crawl_vocabulary,
+                'folder': '學習詞表'
+            },
+            '情境族語': {
+                'url': 'https://web.klokah.tw/dialogue/', 
+                'func': crawl_dialogue,
+                'folder': '情境族語'  # 學習三 的 單詞學習 爬不出來 明明學習二的單詞學習就爬的到 
+            },
+            '族語短文': {
+                'url': 'https://web.klokah.tw/essay/',
+                'func': crawl_essay,
+                'folder': '族語短文'
+            },  
 
             # 還有 10 個 不然就是超長的那種 30幾分鐘 的影片
             # 補充教材： 閱讀文本 
             # 教材教具學習： WAWA點點樂 、 主題式掛圖的身體 親屬 山川自然 動物 、 LIMA有聲書 
-            # 開放平台： 繪本平台 、 動畫平台 、 影音中心 、 自編教材 、 教案平台 、 句法演練平台 、 族語學習 podcast 甚至可以用之前訓練的模型辨識之後 再加入到訓練裡面 
-            # 族語影片： 看影片學族語 、 或是再用訓練出來的模型 來去做 弱標註(自動標註)
-            # 族語翻譯精靈sisil  隨時翻譯 線上即時翻譯軟體 只能翻譯文字 放輕鬆
+            # 開放平台： 繪本平台 、 動畫平台 、 影音中心 、 自編教材 、 教案平台 、 句法演練平台  
         }
         for name, config in crawlers.items():
             try:

@@ -1,0 +1,375 @@
+0426.mp3
+你爸爸叫甚麼名字？(ima’ lalu’ nya’ yaba’ su’?)
+male
+one
+
+0427.mp3
+你祖父叫甚麼名字？(ima’ lalu’ nya’ yutas su’?)
+male
+one
+
+0428.mp3
+你老師叫甚麼名字？(ima’ lalu’ nya’ sinsi su’?)
+male
+one
+
+0429.mp3
+他姊姊叫甚麼名字？(ima’ lalu’ qbsuyan nya’ kneril?)
+male
+one
+
+0430.mp3
+他祖母叫甚麼名字？(ima’ lalu’ yaki’ nya’?)
+male
+one
+
+0431.mp3
+他媽媽叫甚麼名字？(ima’ lalu’ yaya’ nya’?)
+male
+one
+
+0432.mp3
+那個醫生叫甚麼名字？(ima’ lalu’ nya’ sinsi pkita’ nbu’ qasa?)
+male
+one
+
+0433.mp3
+那個老師叫甚麼名字？(ima’ lalu’ nya’ sinsi qasa?)
+male
+one
+
+0434.mp3
+那個學生叫甚麼名字？(ima’ lalu’ nya’ seto’ qasa?)
+male
+one
+
+0435.mp3
+那個女人叫甚麼名字？(ima’ lalu’ nya’ kneril qasa?)
+male
+one
+
+0436.mp3
+那個男人叫甚麼名字？(ima’ lalu’ nya’ mlikuy qasa?)
+male
+one
+
+0437.mp3
+那個老人叫甚麼名字？(ima’ lalu’ nya’ bnkis qasa?)
+male
+one
+
+0438.mp3
+那個老人是誰？(ima’ qu bnkis qasa?)
+male
+one
+
+0439.mp3
+那個男人是誰？(ima’ qu mlikuy qasa?)
+male
+one
+
+0440.mp3
+那個小孩是誰？(ima’ qu ’laqi’ qasa?)
+male
+one
+
+0441.mp3
+你有幾隻羊？(pira’ mit su’?)
+male
+one
+
+0442.mp3
+你有幾隻雞？(pira’ ngta’ su’?)
+male
+one
+
+0443.mp3
+你有幾隻魚？(pira’ qulih su’?)
+male
+one
+
+0444.mp3
+他有幾張桌子？(pira’ hanray nya’?)
+male
+one
+
+0445.mp3
+他有幾張椅子？(pira’ thekah nya’?)
+male
+one
+
+0446.mp3
+他有幾本書？(pira’ biru’ nya’?)
+male
+one
+
+0447.mp3
+這個小孩有幾個地瓜？(pira’ ngahi’ nya’ ’laqi’ qasa?)
+male
+one
+
+0448.mp3
+這個小孩有幾個橘子？(pira’ yutak nya’ ’laqi’ qasa?)
+male
+one
+
+0449.mp3
+這個小孩有幾根香蕉？(pira’ guquh nya’ ’laqi’ qasa?)
+male
+one
+
+0450.mp3
+那個女人有幾個房子？(pira’ ngasal nya’ kneril qasa?)
+male
+one
+
+0451.mp3
+那個女人有幾把雨傘？(pira’ ruku’ nya’ kneril qasa?)
+male
+one
+
+0452.mp3
+那個女人有幾件衣服？(pira’ lukus nya’ kneril qasa?)
+male
+one
+
+0453.mp3
+你幾歲？(pira’ kawas su’?)
+male
+one
+
+0454.mp3
+你哥哥幾歲？(pira’ kawas qbsuyan su’ mlikuy?)
+male
+one
+
+0455.mp3
+你妹妹幾歲？(pira’ kawas sswe’ su’ kneril?)
+male
+one
+
+0456.mp3
+你的猴子在哪裡？(cyux inu’ yungay su’?)
+male
+one
+
+0457.mp3
+你的貓在哪裡？(cyux inu’ ngyaw su’?)
+male
+one
+
+0458.mp3
+你的老鼠在哪裡？(cyux inu’ qoli’ su’?)
+male
+one
+
+0459.mp3
+我祖母在哪裡？(cyux inu’ yaki’ maku’?)
+male
+one
+
+0460.mp3
+我媽媽在哪裡？(cyux inu’ yaya’ maku’?)
+male
+one
+
+0461.mp3
+我姊姊在哪裡？(cyux inu’ qbsuyan maku’ kneril?)
+male
+one
+
+0462.mp3
+那個女人在哪裡？(cyux inu’ kneril qasa?)
+male
+one
+
+0463.mp3
+那個醫生在哪裡？(cyux inu’ sinsiy pkita’ nbu’ qasa?)
+male
+one
+
+0464.mp3
+那個老師在哪裡？(cyux inu’ sinsiy qasa?)
+male
+one
+
+0465.mp3
+我們的衣服在哪裡？(cyux inu’ lukus myan?)
+male
+one
+
+0466.mp3
+我們的錢在哪裡？(cyux inu’ pila’ myan?)
+male
+one
+
+0467.mp3
+我們的雨傘在哪裡？(cyux inu’ lruku’ myan?)
+male
+one
+
+0468.mp3
+她的家在哪裡？(cyux inu’ ngasal nya’?)
+male
+one
+
+0469.mp3
+她的學校在哪裡？(cyux inu’ pqwasan nya’ biru’?)
+male
+one
+
+0470.mp3
+她的妹妹在哪裡？(cyux inu’ sswe’ nya’ kneril?)
+male
+one
+
+0471.mp3
+我常常帶雨傘。(maras saku’ ruku’ krryax.)
+male
+one
+
+0472.mp3
+我常常洗衣服。(mahuq saku’ lukus krryax.)
+male
+one
+
+0473.mp3
+我常常走路。(mhkani’ saku’ krryax.)
+male
+one
+
+0474.mp3
+他們的朋友很多。(cingay balay rangi’ nha’.)
+male
+one
+
+0475.mp3
+他們的朋友很高。(gwagiq balay rangi’ nha’.)
+male
+one
+
+0476.mp3
+他們的朋友很漂亮。(betunux balay rangi’ nha’.)
+male
+one
+
+0477.mp3
+這個小孩的衣服是黑色的。(mqalux qu lukus na ’laqi’ qani.)
+male
+one
+
+0478.mp3
+這個小孩的衣服是紅色的。(mtalah qu lukus na ’laqi’ qani.)
+male
+one
+
+0479.mp3
+這個小孩的衣服是白色的。(mplkwi’ qu lukus na ’laqi’ qani.)
+male
+one
+
+0480.mp3
+那個男人很矮。(rroq balay mlikuy qasa.)
+male
+one
+
+0481.mp3
+那個男人很勤勞。(mqnzyat balay mlikuy qasa.)
+male
+one
+
+0482.mp3
+那個男人很懶惰。(mqilang balay mlikuy qasa.)
+male
+one
+
+0483.mp3
+她的椅子很重。(r’usuw balay thekan nya’.)
+male
+one
+
+0484.mp3
+她的祖父很高。(gwagiq balay yutas nya’.)
+male
+one
+
+0485.mp3
+她的頭髮很長。(qruzyux balay snonux nya’.)
+male
+one
+
+0486.mp3
+起立！(tuliq!)
+male
+one
+
+0487.mp3
+坐下！(tama’!)
+male
+one
+
+0488.mp3
+請說！(kal ciklay!)
+male
+one
+
+0489.mp3
+去！(usa’!)
+male
+one
+
+0490.mp3
+來！(uwah!)
+male
+one
+
+0491.mp3
+聽！(pung!)
+male
+one
+
+0492.mp3
+去畫圖！(usa’ matas biru’!)
+male
+one
+
+0493.mp3
+去睡覺！(usa’ m’abi’!)
+male
+one
+
+0494.mp3
+去讀書！(usa’ mita’ biru’!)
+male
+one
+
+0495.mp3
+去探望祖父！(usa’ mita’ yutas su’!)
+male
+one
+
+0496.mp3
+去唱歌！(usa’ mqwas!)
+male
+one
+
+0497.mp3
+去洗衣服！(usa’ mahuq lukus!)
+male
+one
+
+0498.mp3
+別說話！(laxi kal!)
+male
+one
+
+0499.mp3
+別遲到！(laxi kqsuqi’!)
+male
+one
+
+0500.mp3
+別浪費！(laxi hiriq!)
+male
+one
+
