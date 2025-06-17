@@ -31,6 +31,8 @@ from crawlers.culture_crawler import crawl_culture
 from crawlers.vocabulary_crawler import crawl_vocabulary
 from crawlers.dialogue_crawler import crawl_dialogue
 from crawlers.essay_crawler import crawl_essay
+from crawlers.reading_text_crawler import crawl_reading_text
+from crawlers.lima_audiobook_crawler import crawl_lima
 # ---------------------------
 # Global Settings
 # ---------------------------
@@ -284,69 +286,79 @@ def main():
         os.makedirs(dialect_folder, exist_ok=True)
 
         crawlers = {
-            '字母篇': {
-                'url': 'https://web.klokah.tw/extension/ab_practice/index.php',
-                'func': crawl_alphabet_words,
-                'folder': '字母篇'
-            }
-            ,
-            '句型篇國中版': {
-                'url': 'https://web.klokah.tw/extension/sp_junior/practice.php',
-                'func': crawl_sentences,
-                'folder': '句型篇國中版'
-            }
-            ,
-            '句型篇高中版': {
-                'url': 'https://web.klokah.tw/extension/sp_senior/practice.php',
-                'func': crawl_sentences,
-                'folder': '句型篇高中版'
-            }
-            ,
-            '十二年國教課程': {
-                'url': 'https://web.klokah.tw/twelve/learn.php',
-                'func': crawl_twelve_year_course,
-                'folder': '十二年國教課程'
-            }
-            ,
-            '圖畫故事篇': {
-                'url': 'https://web.klokah.tw/extension/ps_practice/',
-                'func': crawl_picture_stories,
-                'folder': '圖畫故事篇'
-            }
-            ,
-            '生活會話篇': {
-                'url': 'https://web.klokah.tw/extension/con_practice/',
-                'func': crawl_life_conversation,
-                'folder': '生活會話篇'
-            }
-            ,
-            '閱讀書寫篇': {
-                'url': 'https://web.klokah.tw/extension/rd_practice/',
-                'func': crawl_reading_writing,
-                'folder': '閱讀書寫篇'
-            }
-            ,
-            '文化篇': {
-                'url': 'https://web.klokah.tw/extension/cu_practice/',
-                'func': crawl_culture,
-                'folder': '文化篇'
-            }
-            ,
-            '學習詞表': {
-                'url': 'https://web.klokah.tw/vocabulary/', # 到第32個小輪就會斷掉 爬不到 所有要再改 start_number=1 變成32開始繼續爬
-                'func': crawl_vocabulary,
-                'folder': '學習詞表'
+            # '字母篇': {
+            #     'url': 'https://web.klokah.tw/extension/ab_practice/index.php',
+            #     'func': crawl_alphabet_words,
+            #     'folder': '字母篇'
+            # }
+            # ,
+            # '句型篇國中版': {
+            #     'url': 'https://web.klokah.tw/extension/sp_junior/practice.php',
+            #     'func': crawl_sentences,
+            #     'folder': '句型篇國中版'
+            # }
+            # ,
+            # '句型篇高中版': {
+            #     'url': 'https://web.klokah.tw/extension/sp_senior/practice.php',
+            #     'func': crawl_sentences,
+            #     'folder': '句型篇高中版'
+            # }
+            # ,
+            # '十二年國教課程': {
+            #     'url': 'https://web.klokah.tw/twelve/learn.php',
+            #     'func': crawl_twelve_year_course,
+            #     'folder': '十二年國教課程'
+            # }
+            # ,
+            # '圖畫故事篇': {
+            #     'url': 'https://web.klokah.tw/extension/ps_practice/',
+            #     'func': crawl_picture_stories,
+            #     'folder': '圖畫故事篇'
+            # }
+            # ,
+            # '生活會話篇': {
+            #     'url': 'https://web.klokah.tw/extension/con_practice/',
+            #     'func': crawl_life_conversation,
+            #     'folder': '生活會話篇'
+            # }
+            # ,
+            # '閱讀書寫篇': {
+            #     'url': 'https://web.klokah.tw/extension/rd_practice/',
+            #     'func': crawl_reading_writing,
+            #     'folder': '閱讀書寫篇'
+            # }
+            # ,
+            # '文化篇': {
+            #     'url': 'https://web.klokah.tw/extension/cu_practice/',
+            #     'func': crawl_culture,
+            #     'folder': '文化篇'
+            # }
+            # ,
+            # '學習詞表': {
+            #     'url': 'https://web.klokah.tw/vocabulary/', # 到第32個小輪就會斷掉 爬不到 所有要再改 start_number=1 變成32開始繼續爬
+            #     'func': crawl_vocabulary,
+            #     'folder': '學習詞表'
+            # },
+            # '情境族語': {
+            #     'url': 'https://web.klokah.tw/dialogue/', 
+            #     'func': crawl_dialogue,
+            #     'folder': '情境族語'  # 學習三 的 單詞學習 爬不出來 明明學習二的單詞學習就爬的到 
+            # },
+            # '族語短文': {
+            #     'url': 'https://web.klokah.tw/essay/',
+            #     'func': crawl_essay,
+            #     'folder': '族語短文'
+            # },  
+            # '閱讀文本': {
+            #     'url': 'https://web.klokah.tw/extension/readingtext/',
+            #     'func': crawl_reading_text,
+            #     'folder': '閱讀文本'
+            # },
+            'LIMA有聲書': {   # 輸出格式跟別人不太一樣
+                'url': 'https://web.klokah.tw/lima/',
+                'func': crawl_lima,
+                'folder': 'LIMA有聲書'
             },
-            '情境族語': {
-                'url': 'https://web.klokah.tw/dialogue/', 
-                'func': crawl_dialogue,
-                'folder': '情境族語'  # 學習三 的 單詞學習 爬不出來 明明學習二的單詞學習就爬的到 
-            },
-            '族語短文': {
-                'url': 'https://web.klokah.tw/essay/',
-                'func': crawl_essay,
-                'folder': '族語短文'
-            },  
 
             # 還有 10 個 不然就是超長的那種 30幾分鐘 的影片
             # 補充教材： 閱讀文本 

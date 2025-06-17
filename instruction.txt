@@ -2,6 +2,11 @@
     # chrome_options.add_argument('--headless')  # 移除無頭模式!!! 不開正在爬的畫面可以爬得更快  移除無頭模式!!! 不開正在爬的畫面可以爬得更快  
 
 
+    # 語言設定
+    LANG_CONFIG = {
+        "main_lang": "排灣語",
+        "dialect": "東排灣語"
+    }
 
 
 

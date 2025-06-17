@@ -13,7 +13,7 @@ from urllib.parse import urljoin
 import re
 
 # 全域設定
-BASE_DOMAIN = "klokah.tw"
+BASE_DOMAIN = "web.klokah.tw"
 
 def download_audio(audio_url, filename, audio_folder):
     """下載音檔並儲存為指定檔名。"""
